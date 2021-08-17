@@ -1,0 +1,8 @@
+.idea
+node_modules
+
+env.js
+20*.json
+*store*.json
+*state*.json
+~*.xlsx

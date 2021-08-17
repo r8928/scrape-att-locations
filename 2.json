@@ -1,0 +1,4342 @@
+[
+    {
+        "name": "Auburn",
+        "href": "https://www.att.com/stores/alabama/auburn",
+        "done": 0
+    },
+    {
+        "name": "Birmingham",
+        "href": "https://www.att.com/stores/alabama/birmingham",
+        "done": 0
+    },
+    {
+        "name": "Cullman",
+        "href": "https://www.att.com/stores/alabama/cullman",
+        "done": 0
+    },
+    {
+        "name": "Daphne",
+        "href": "https://www.att.com/stores/alabama/daphne",
+        "done": 0
+    },
+    {
+        "name": "Dothan",
+        "href": "https://www.att.com/stores/alabama/dothan",
+        "done": 0
+    },
+    {
+        "name": "Huntsville",
+        "href": "https://www.att.com/stores/alabama/huntsville",
+        "done": 0
+    },
+    {
+        "name": "Jasper",
+        "href": "https://www.att.com/stores/alabama/jasper",
+        "done": 0
+    },
+    {
+        "name": "Madison",
+        "href": "https://www.att.com/stores/alabama/madison",
+        "done": 0
+    },
+    {
+        "name": "Mobile",
+        "href": "https://www.att.com/stores/alabama/mobile",
+        "done": 0
+    },
+    {
+        "name": "Montgomery",
+        "href": "https://www.att.com/stores/alabama/montgomery",
+        "done": 0
+    },
+    {
+        "name": "Northport",
+        "href": "https://www.att.com/stores/alabama/northport",
+        "done": 0
+    },
+    {
+        "name": "Saraland",
+        "href": "https://www.att.com/stores/alabama/saraland",
+        "done": 0
+    },
+    {
+        "name": "Tuscaloosa",
+        "href": "https://www.att.com/stores/alabama/tuscaloosa",
+        "done": 0
+    },
+    {
+        "name": "Anchorage",
+        "href": "https://www.att.com/stores/alaska/anchorage",
+        "done": 0
+    },
+    {
+        "name": "Fairbanks",
+        "href": "https://www.att.com/stores/alaska/fairbanks",
+        "done": 0
+    },
+    {
+        "name": "Chandler",
+        "href": "https://www.att.com/stores/arizona/chandler",
+        "done": 0
+    },
+    {
+        "name": "Gilbert",
+        "href": "https://www.att.com/stores/arizona/gilbert",
+        "done": 0
+    },
+    {
+        "name": "Glendale",
+        "href": "https://www.att.com/stores/arizona/glendale",
+        "done": 0
+    },
+    {
+        "name": "Goodyear",
+        "href": "https://www.att.com/stores/arizona/goodyear",
+        "done": 0
+    },
+    {
+        "name": "Mesa",
+        "href": "https://www.att.com/stores/arizona/mesa",
+        "done": 0
+    },
+    {
+        "name": "Phoenix",
+        "href": "https://www.att.com/stores/arizona/phoenix",
+        "done": 0
+    },
+    {
+        "name": "Scottsdale",
+        "href": "https://www.att.com/stores/arizona/scottsdale",
+        "done": 0
+    },
+    {
+        "name": "Surprise",
+        "href": "https://www.att.com/stores/arizona/surprise",
+        "done": 0
+    },
+    {
+        "name": "Tempe",
+        "href": "https://www.att.com/stores/arizona/tempe",
+        "done": 0
+    },
+    {
+        "name": "Tucson",
+        "href": "https://www.att.com/stores/arizona/tucson",
+        "done": 0
+    },
+    {
+        "name": "Yuma",
+        "href": "https://www.att.com/stores/arizona/yuma",
+        "done": 0
+    },
+    {
+        "name": "Bentonville",
+        "href": "https://www.att.com/stores/arkansas/bentonville",
+        "done": 0
+    },
+    {
+        "name": "Bryant",
+        "href": "https://www.att.com/stores/arkansas/bryant",
+        "done": 0
+    },
+    {
+        "name": "Conway",
+        "href": "https://www.att.com/stores/arkansas/conway",
+        "done": 0
+    },
+    {
+        "name": "Fayetteville",
+        "href": "https://www.att.com/stores/arkansas/fayetteville",
+        "done": 0
+    },
+    {
+        "name": "Fort Smith",
+        "href": "https://www.att.com/stores/arkansas/fort-smith",
+        "done": 0
+    },
+    {
+        "name": "Hot Springs",
+        "href": "https://www.att.com/stores/arkansas/hot-springs",
+        "done": 0
+    },
+    {
+        "name": "Jonesboro",
+        "href": "https://www.att.com/stores/arkansas/jonesboro",
+        "done": 0
+    },
+    {
+        "name": "Little Rock",
+        "href": "https://www.att.com/stores/arkansas/little-rock",
+        "done": 0
+    },
+    {
+        "name": "Pine Bluff",
+        "href": "https://www.att.com/stores/arkansas/pine-bluff",
+        "done": 0
+    },
+    {
+        "name": "Rogers",
+        "href": "https://www.att.com/stores/arkansas/rogers",
+        "done": 0
+    },
+    {
+        "name": "Russellville",
+        "href": "https://www.att.com/stores/arkansas/russellville",
+        "done": 0
+    },
+    {
+        "name": "Searcy",
+        "href": "https://www.att.com/stores/arkansas/searcy",
+        "done": 0
+    },
+    {
+        "name": "Springdale",
+        "href": "https://www.att.com/stores/arkansas/springdale",
+        "done": 0
+    },
+    {
+        "name": "Anaheim",
+        "href": "https://www.att.com/stores/california/anaheim",
+        "done": 0
+    },
+    {
+        "name": "Azusa",
+        "href": "https://www.att.com/stores/california/azusa",
+        "done": 0
+    },
+    {
+        "name": "Bakersfield",
+        "href": "https://www.att.com/stores/california/bakersfield",
+        "done": 0
+    },
+    {
+        "name": "Burbank",
+        "href": "https://www.att.com/stores/california/burbank",
+        "done": 0
+    },
+    {
+        "name": "Cerritos",
+        "href": "https://www.att.com/stores/california/cerritos",
+        "done": 0
+    },
+    {
+        "name": "Chico",
+        "href": "https://www.att.com/stores/california/chico",
+        "done": 0
+    },
+    {
+        "name": "Chino Hills",
+        "href": "https://www.att.com/stores/california/chino-hills",
+        "done": 0
+    },
+    {
+        "name": "Chula Vista",
+        "href": "https://www.att.com/stores/california/chula-vista",
+        "done": 0
+    },
+    {
+        "name": "Citrus Heights",
+        "href": "https://www.att.com/stores/california/citrus-heights",
+        "done": 0
+    },
+    {
+        "name": "Clovis",
+        "href": "https://www.att.com/stores/california/clovis",
+        "done": 0
+    },
+    {
+        "name": "Concord",
+        "href": "https://www.att.com/stores/california/concord",
+        "done": 0
+    },
+    {
+        "name": "Corona",
+        "href": "https://www.att.com/stores/california/corona",
+        "done": 0
+    },
+    {
+        "name": "Costa Mesa",
+        "href": "https://www.att.com/stores/california/costa-mesa",
+        "done": 0
+    },
+    {
+        "name": "Daly City",
+        "href": "https://www.att.com/stores/california/daly-city",
+        "done": 0
+    },
+    {
+        "name": "Davis",
+        "href": "https://www.att.com/stores/california/davis",
+        "done": 0
+    },
+    {
+        "name": "Downey",
+        "href": "https://www.att.com/stores/california/downey",
+        "done": 0
+    },
+    {
+        "name": "El Cajon",
+        "href": "https://www.att.com/stores/california/el-cajon",
+        "done": 0
+    },
+    {
+        "name": "Escondido",
+        "href": "https://www.att.com/stores/california/escondido",
+        "done": 0
+    },
+    {
+        "name": "Fairfield",
+        "href": "https://www.att.com/stores/california/fairfield",
+        "done": 0
+    },
+    {
+        "name": "Folsom",
+        "href": "https://www.att.com/stores/california/folsom",
+        "done": 0
+    },
+    {
+        "name": "Fremont",
+        "href": "https://www.att.com/stores/california/fremont",
+        "done": 0
+    },
+    {
+        "name": "Fresno",
+        "href": "https://www.att.com/stores/california/fresno",
+        "done": 0
+    },
+    {
+        "name": "Fullerton",
+        "href": "https://www.att.com/stores/california/fullerton",
+        "done": 0
+    },
+    {
+        "name": "Garden Grove",
+        "href": "https://www.att.com/stores/california/garden-grove",
+        "done": 0
+    },
+    {
+        "name": "Gardena",
+        "href": "https://www.att.com/stores/california/gardena",
+        "done": 0
+    },
+    {
+        "name": "Glendale",
+        "href": "https://www.att.com/stores/california/glendale",
+        "done": 0
+    },
+    {
+        "name": "Hanford",
+        "href": "https://www.att.com/stores/california/hanford",
+        "done": 0
+    },
+    {
+        "name": "Hawthorne",
+        "href": "https://www.att.com/stores/california/hawthorne",
+        "done": 0
+    },
+    {
+        "name": "Hayward",
+        "href": "https://www.att.com/stores/california/hayward",
+        "done": 0
+    },
+    {
+        "name": "Huntington Beach",
+        "href": "https://www.att.com/stores/california/huntington-beach",
+        "done": 0
+    },
+    {
+        "name": "Huntington Park",
+        "href": "https://www.att.com/stores/california/huntington-park",
+        "done": 0
+    },
+    {
+        "name": "Inglewood",
+        "href": "https://www.att.com/stores/california/inglewood",
+        "done": 0
+    },
+    {
+        "name": "Irvine",
+        "href": "https://www.att.com/stores/california/irvine",
+        "done": 0
+    },
+    {
+        "name": "La Mesa",
+        "href": "https://www.att.com/stores/california/la-mesa",
+        "done": 0
+    },
+    {
+        "name": "Lake Forest",
+        "href": "https://www.att.com/stores/california/lake-forest",
+        "done": 0
+    },
+    {
+        "name": "Lancaster",
+        "href": "https://www.att.com/stores/california/lancaster",
+        "done": 0
+    },
+    {
+        "name": "Livermore",
+        "href": "https://www.att.com/stores/california/livermore",
+        "done": 0
+    },
+    {
+        "name": "Lodi",
+        "href": "https://www.att.com/stores/california/lodi",
+        "done": 0
+    },
+    {
+        "name": "Long Beach",
+        "href": "https://www.att.com/stores/california/long-beach",
+        "done": 0
+    },
+    {
+        "name": "Los Angeles",
+        "href": "https://www.att.com/stores/california/los-angeles",
+        "done": 0
+    },
+    {
+        "name": "Manteca",
+        "href": "https://www.att.com/stores/california/manteca",
+        "done": 0
+    },
+    {
+        "name": "Milpitas",
+        "href": "https://www.att.com/stores/california/milpitas",
+        "done": 0
+    },
+    {
+        "name": "Mira Loma",
+        "href": "https://www.att.com/stores/california/mira-loma",
+        "done": 0
+    },
+    {
+        "name": "Modesto",
+        "href": "https://www.att.com/stores/california/modesto",
+        "done": 0
+    },
+    {
+        "name": "Montebello",
+        "href": "https://www.att.com/stores/california/montebello",
+        "done": 0
+    },
+    {
+        "name": "Monterey Park",
+        "href": "https://www.att.com/stores/california/monterey-park",
+        "done": 0
+    },
+    {
+        "name": "Moreno Valley",
+        "href": "https://www.att.com/stores/california/moreno-valley",
+        "done": 0
+    },
+    {
+        "name": "Mountain View",
+        "href": "https://www.att.com/stores/california/mountain-view",
+        "done": 0
+    },
+    {
+        "name": "Murrieta",
+        "href": "https://www.att.com/stores/california/murrieta",
+        "done": 0
+    },
+    {
+        "name": "Napa",
+        "href": "https://www.att.com/stores/california/napa",
+        "done": 0
+    },
+    {
+        "name": "National City",
+        "href": "https://www.att.com/stores/california/national-city",
+        "done": 0
+    },
+    {
+        "name": "North Hollywood",
+        "href": "https://www.att.com/stores/california/north-hollywood",
+        "done": 0
+    },
+    {
+        "name": "Oakland",
+        "href": "https://www.att.com/stores/california/oakland",
+        "done": 0
+    },
+    {
+        "name": "Oceanside",
+        "href": "https://www.att.com/stores/california/oceanside",
+        "done": 0
+    },
+    {
+        "name": "Ontario",
+        "href": "https://www.att.com/stores/california/ontario",
+        "done": 0
+    },
+    {
+        "name": "Orange",
+        "href": "https://www.att.com/stores/california/orange",
+        "done": 0
+    },
+    {
+        "name": "Oxnard",
+        "href": "https://www.att.com/stores/california/oxnard",
+        "done": 0
+    },
+    {
+        "name": "Palmdale",
+        "href": "https://www.att.com/stores/california/palmdale",
+        "done": 0
+    },
+    {
+        "name": "Pasadena",
+        "href": "https://www.att.com/stores/california/pasadena",
+        "done": 0
+    },
+    {
+        "name": "Petaluma",
+        "href": "https://www.att.com/stores/california/petaluma",
+        "done": 0
+    },
+    {
+        "name": "Pittsburg",
+        "href": "https://www.att.com/stores/california/pittsburg",
+        "done": 0
+    },
+    {
+        "name": "Pleasanton",
+        "href": "https://www.att.com/stores/california/pleasanton",
+        "done": 0
+    },
+    {
+        "name": "Porterville",
+        "href": "https://www.att.com/stores/california/porterville",
+        "done": 0
+    },
+    {
+        "name": "Rancho Cucamonga",
+        "href": "https://www.att.com/stores/california/rancho-cucamonga",
+        "done": 0
+    },
+    {
+        "name": "Rialto",
+        "href": "https://www.att.com/stores/california/rialto",
+        "done": 0
+    },
+    {
+        "name": "Riverside",
+        "href": "https://www.att.com/stores/california/riverside",
+        "done": 0
+    },
+    {
+        "name": "Rolling Hills Estates",
+        "href": "https://www.att.com/stores/california/rolling-hills-estates",
+        "done": 0
+    },
+    {
+        "name": "Roseville",
+        "href": "https://www.att.com/stores/california/roseville",
+        "done": 0
+    },
+    {
+        "name": "Rowland Heights",
+        "href": "https://www.att.com/stores/california/rowland-heights",
+        "done": 0
+    },
+    {
+        "name": "Sacramento",
+        "href": "https://www.att.com/stores/california/sacramento",
+        "done": 0
+    },
+    {
+        "name": "San Bernardino",
+        "href": "https://www.att.com/stores/california/san-bernardino",
+        "done": 0
+    },
+    {
+        "name": "San Clemente",
+        "href": "https://www.att.com/stores/california/san-clemente",
+        "done": 0
+    },
+    {
+        "name": "San Diego",
+        "href": "https://www.att.com/stores/california/san-diego",
+        "done": 0
+    },
+    {
+        "name": "San Francisco",
+        "href": "https://www.att.com/stores/california/san-francisco",
+        "done": 0
+    },
+    {
+        "name": "San Gabriel",
+        "href": "https://www.att.com/stores/california/san-gabriel",
+        "done": 0
+    },
+    {
+        "name": "San Jose",
+        "href": "https://www.att.com/stores/california/san-jose",
+        "done": 0
+    },
+    {
+        "name": "San Leandro",
+        "href": "https://www.att.com/stores/california/san-leandro",
+        "done": 0
+    },
+    {
+        "name": "San Marcos",
+        "href": "https://www.att.com/stores/california/san-marcos",
+        "done": 0
+    },
+    {
+        "name": "San Mateo",
+        "href": "https://www.att.com/stores/california/san-mateo",
+        "done": 0
+    },
+    {
+        "name": "San Rafael",
+        "href": "https://www.att.com/stores/california/san-rafael",
+        "done": 0
+    },
+    {
+        "name": "Santa Ana",
+        "href": "https://www.att.com/stores/california/santa-ana",
+        "done": 0
+    },
+    {
+        "name": "Santa Clara",
+        "href": "https://www.att.com/stores/california/santa-clara",
+        "done": 0
+    },
+    {
+        "name": "Santa Monica",
+        "href": "https://www.att.com/stores/california/santa-monica",
+        "done": 0
+    },
+    {
+        "name": "Santa Rosa",
+        "href": "https://www.att.com/stores/california/santa-rosa",
+        "done": 0
+    },
+    {
+        "name": "Simi Valley",
+        "href": "https://www.att.com/stores/california/simi-valley",
+        "done": 0
+    },
+    {
+        "name": "South Gate",
+        "href": "https://www.att.com/stores/california/south-gate",
+        "done": 0
+    },
+    {
+        "name": "Stockton",
+        "href": "https://www.att.com/stores/california/stockton",
+        "done": 0
+    },
+    {
+        "name": "Sunnyvale",
+        "href": "https://www.att.com/stores/california/sunnyvale",
+        "done": 0
+    },
+    {
+        "name": "Temecula",
+        "href": "https://www.att.com/stores/california/temecula",
+        "done": 0
+    },
+    {
+        "name": "Torrance",
+        "href": "https://www.att.com/stores/california/torrance",
+        "done": 0
+    },
+    {
+        "name": "Tracy",
+        "href": "https://www.att.com/stores/california/tracy",
+        "done": 0
+    },
+    {
+        "name": "Turlock",
+        "href": "https://www.att.com/stores/california/turlock",
+        "done": 0
+    },
+    {
+        "name": "Upland",
+        "href": "https://www.att.com/stores/california/upland",
+        "done": 0
+    },
+    {
+        "name": "Valencia",
+        "href": "https://www.att.com/stores/california/valencia",
+        "done": 0
+    },
+    {
+        "name": "Ventura",
+        "href": "https://www.att.com/stores/california/ventura",
+        "done": 0
+    },
+    {
+        "name": "Victorville",
+        "href": "https://www.att.com/stores/california/victorville",
+        "done": 0
+    },
+    {
+        "name": "Visalia",
+        "href": "https://www.att.com/stores/california/visalia",
+        "done": 0
+    },
+    {
+        "name": "Vista",
+        "href": "https://www.att.com/stores/california/vista",
+        "done": 0
+    },
+    {
+        "name": "West Covina",
+        "href": "https://www.att.com/stores/california/west-covina",
+        "done": 0
+    },
+    {
+        "name": "Westminster",
+        "href": "https://www.att.com/stores/california/westminster",
+        "done": 0
+    },
+    {
+        "name": "Whittier",
+        "href": "https://www.att.com/stores/california/whittier",
+        "done": 0
+    },
+    {
+        "name": "Woodland Hills",
+        "href": "https://www.att.com/stores/california/woodland-hills",
+        "done": 0
+    },
+    {
+        "name": "Aurora",
+        "href": "https://www.att.com/stores/colorado/aurora",
+        "done": 0
+    },
+    {
+        "name": "Broomfield",
+        "href": "https://www.att.com/stores/colorado/broomfield",
+        "done": 0
+    },
+    {
+        "name": "Castle Rock",
+        "href": "https://www.att.com/stores/colorado/castle-rock",
+        "done": 0
+    },
+    {
+        "name": "Colorado Springs",
+        "href": "https://www.att.com/stores/colorado/colorado-springs",
+        "done": 0
+    },
+    {
+        "name": "Denver",
+        "href": "https://www.att.com/stores/colorado/denver",
+        "done": 0
+    },
+    {
+        "name": "Fort Collins",
+        "href": "https://www.att.com/stores/colorado/fort-collins",
+        "done": 0
+    },
+    {
+        "name": "Grand Junction",
+        "href": "https://www.att.com/stores/colorado/grand-junction",
+        "done": 0
+    },
+    {
+        "name": "Greenwood Village",
+        "href": "https://www.att.com/stores/colorado/greenwood-village",
+        "done": 0
+    },
+    {
+        "name": "Lakewood",
+        "href": "https://www.att.com/stores/colorado/lakewood",
+        "done": 0
+    },
+    {
+        "name": "Lone Tree",
+        "href": "https://www.att.com/stores/colorado/lone-tree",
+        "done": 0
+    },
+    {
+        "name": "Longmont",
+        "href": "https://www.att.com/stores/colorado/longmont",
+        "done": 0
+    },
+    {
+        "name": "Loveland",
+        "href": "https://www.att.com/stores/colorado/loveland",
+        "done": 0
+    },
+    {
+        "name": "Parker",
+        "href": "https://www.att.com/stores/colorado/parker",
+        "done": 0
+    },
+    {
+        "name": "Pueblo",
+        "href": "https://www.att.com/stores/colorado/pueblo",
+        "done": 0
+    },
+    {
+        "name": "Thornton",
+        "href": "https://www.att.com/stores/colorado/thornton",
+        "done": 0
+    },
+    {
+        "name": "Westminster",
+        "href": "https://www.att.com/stores/colorado/westminster",
+        "done": 0
+    },
+    {
+        "name": "Bristol",
+        "href": "https://www.att.com/stores/connecticut/bristol",
+        "done": 0
+    },
+    {
+        "name": "Danbury",
+        "href": "https://www.att.com/stores/connecticut/danbury",
+        "done": 0
+    },
+    {
+        "name": "Derby",
+        "href": "https://www.att.com/stores/connecticut/derby",
+        "done": 0
+    },
+    {
+        "name": "Manchester",
+        "href": "https://www.att.com/stores/connecticut/manchester",
+        "done": 0
+    },
+    {
+        "name": "Meriden",
+        "href": "https://www.att.com/stores/connecticut/meriden",
+        "done": 0
+    },
+    {
+        "name": "Milford",
+        "href": "https://www.att.com/stores/connecticut/milford",
+        "done": 0
+    },
+    {
+        "name": "New Haven",
+        "href": "https://www.att.com/stores/connecticut/new-haven",
+        "done": 0
+    },
+    {
+        "name": "Norwalk",
+        "href": "https://www.att.com/stores/connecticut/norwalk",
+        "done": 0
+    },
+    {
+        "name": "Stamford",
+        "href": "https://www.att.com/stores/connecticut/stamford",
+        "done": 0
+    },
+    {
+        "name": "Waterbury",
+        "href": "https://www.att.com/stores/connecticut/waterbury",
+        "done": 0
+    },
+    {
+        "name": "West Hartford",
+        "href": "https://www.att.com/stores/connecticut/west-hartford",
+        "done": 0
+    },
+    {
+        "name": "Dover",
+        "href": "https://www.att.com/stores/delaware/dover",
+        "done": 0
+    },
+    {
+        "name": "Newark",
+        "href": "https://www.att.com/stores/delaware/newark",
+        "done": 0
+    },
+    {
+        "name": "Wilmington",
+        "href": "https://www.att.com/stores/delaware/wilmington",
+        "done": 0
+    },
+    {
+        "name": "Altamonte Springs",
+        "href": "https://www.att.com/stores/florida/altamonte-springs",
+        "done": 0
+    },
+    {
+        "name": "Boca Raton",
+        "href": "https://www.att.com/stores/florida/boca-raton",
+        "done": 0
+    },
+    {
+        "name": "Boynton Beach",
+        "href": "https://www.att.com/stores/florida/boynton-beach",
+        "done": 0
+    },
+    {
+        "name": "Brandon",
+        "href": "https://www.att.com/stores/florida/brandon",
+        "done": 0
+    },
+    {
+        "name": "Cape Coral",
+        "href": "https://www.att.com/stores/florida/cape-coral",
+        "done": 0
+    },
+    {
+        "name": "Casselberry",
+        "href": "https://www.att.com/stores/florida/casselberry",
+        "done": 0
+    },
+    {
+        "name": "Clearwater",
+        "href": "https://www.att.com/stores/florida/clearwater",
+        "done": 0
+    },
+    {
+        "name": "Clermont",
+        "href": "https://www.att.com/stores/florida/clermont",
+        "done": 0
+    },
+    {
+        "name": "Coral Gables",
+        "href": "https://www.att.com/stores/florida/coral-gables",
+        "done": 0
+    },
+    {
+        "name": "Coral Springs",
+        "href": "https://www.att.com/stores/florida/coral-springs",
+        "done": 0
+    },
+    {
+        "name": "Davenport",
+        "href": "https://www.att.com/stores/florida/davenport",
+        "done": 0
+    },
+    {
+        "name": "Davie",
+        "href": "https://www.att.com/stores/florida/davie",
+        "done": 0
+    },
+    {
+        "name": "Daytona Beach",
+        "href": "https://www.att.com/stores/florida/daytona-beach",
+        "done": 0
+    },
+    {
+        "name": "Deerfield Beach",
+        "href": "https://www.att.com/stores/florida/deerfield-beach",
+        "done": 0
+    },
+    {
+        "name": "Deland",
+        "href": "https://www.att.com/stores/florida/deland",
+        "done": 0
+    },
+    {
+        "name": "Delray Beach",
+        "href": "https://www.att.com/stores/florida/delray-beach",
+        "done": 0
+    },
+    {
+        "name": "Doral",
+        "href": "https://www.att.com/stores/florida/doral",
+        "done": 0
+    },
+    {
+        "name": "Fleming Island",
+        "href": "https://www.att.com/stores/florida/fleming-island",
+        "done": 0
+    },
+    {
+        "name": "Fort Lauderdale",
+        "href": "https://www.att.com/stores/florida/fort-lauderdale",
+        "done": 0
+    },
+    {
+        "name": "Fort Myers",
+        "href": "https://www.att.com/stores/florida/fort-myers",
+        "done": 0
+    },
+    {
+        "name": "Ft Lauderdale",
+        "href": "https://www.att.com/stores/florida/ft-lauderdale",
+        "done": 0
+    },
+    {
+        "name": "Gainesville",
+        "href": "https://www.att.com/stores/florida/gainesville",
+        "done": 0
+    },
+    {
+        "name": "Greenacres",
+        "href": "https://www.att.com/stores/florida/greenacres",
+        "done": 0
+    },
+    {
+        "name": "Gulf Breeze",
+        "href": "https://www.att.com/stores/florida/gulf-breeze",
+        "done": 0
+    },
+    {
+        "name": "Hialeah",
+        "href": "https://www.att.com/stores/florida/hialeah",
+        "done": 0
+    },
+    {
+        "name": "Hollywood",
+        "href": "https://www.att.com/stores/florida/hollywood",
+        "done": 0
+    },
+    {
+        "name": "Homestead",
+        "href": "https://www.att.com/stores/florida/homestead",
+        "done": 0
+    },
+    {
+        "name": "Jacksonville",
+        "href": "https://www.att.com/stores/florida/jacksonville",
+        "done": 0
+    },
+    {
+        "name": "Jacksonville Beach",
+        "href": "https://www.att.com/stores/florida/jacksonville-beach",
+        "done": 0
+    },
+    {
+        "name": "Jupiter",
+        "href": "https://www.att.com/stores/florida/jupiter",
+        "done": 0
+    },
+    {
+        "name": "Key Biscayne",
+        "href": "https://www.att.com/stores/florida/key-biscayne",
+        "done": 0
+    },
+    {
+        "name": "Kissimmee",
+        "href": "https://www.att.com/stores/florida/kissimmee",
+        "done": 0
+    },
+    {
+        "name": "Lake Mary",
+        "href": "https://www.att.com/stores/florida/lake-mary",
+        "done": 0
+    },
+    {
+        "name": "Lake Worth",
+        "href": "https://www.att.com/stores/florida/lake-worth",
+        "done": 0
+    },
+    {
+        "name": "Lakeland",
+        "href": "https://www.att.com/stores/florida/lakeland",
+        "done": 0
+    },
+    {
+        "name": "Leesburg",
+        "href": "https://www.att.com/stores/florida/leesburg",
+        "done": 0
+    },
+    {
+        "name": "Lutz",
+        "href": "https://www.att.com/stores/florida/lutz",
+        "done": 0
+    },
+    {
+        "name": "Melbourne",
+        "href": "https://www.att.com/stores/florida/melbourne",
+        "done": 0
+    },
+    {
+        "name": "Merritt Island",
+        "href": "https://www.att.com/stores/florida/merritt-island",
+        "done": 0
+    },
+    {
+        "name": "Miami",
+        "href": "https://www.att.com/stores/florida/miami",
+        "done": 0
+    },
+    {
+        "name": "Miami Beach",
+        "href": "https://www.att.com/stores/florida/miami-beach",
+        "done": 0
+    },
+    {
+        "name": "Miami Gardens",
+        "href": "https://www.att.com/stores/florida/miami-gardens",
+        "done": 0
+    },
+    {
+        "name": "Miami Lakes",
+        "href": "https://www.att.com/stores/florida/miami-lakes",
+        "done": 0
+    },
+    {
+        "name": "Naples",
+        "href": "https://www.att.com/stores/florida/naples",
+        "done": 0
+    },
+    {
+        "name": "New Port Richey",
+        "href": "https://www.att.com/stores/florida/new-port-richey",
+        "done": 0
+    },
+    {
+        "name": "North Port",
+        "href": "https://www.att.com/stores/florida/north-port",
+        "done": 0
+    },
+    {
+        "name": "Ocala",
+        "href": "https://www.att.com/stores/florida/ocala",
+        "done": 0
+    },
+    {
+        "name": "Orange Park",
+        "href": "https://www.att.com/stores/florida/orange-park",
+        "done": 0
+    },
+    {
+        "name": "Orlando",
+        "href": "https://www.att.com/stores/florida/orlando",
+        "done": 0
+    },
+    {
+        "name": "Ormond Beach",
+        "href": "https://www.att.com/stores/florida/ormond-beach",
+        "done": 0
+    },
+    {
+        "name": "Oviedo",
+        "href": "https://www.att.com/stores/florida/oviedo",
+        "done": 0
+    },
+    {
+        "name": "Palm Beach Gardens",
+        "href": "https://www.att.com/stores/florida/palm-beach-gardens",
+        "done": 0
+    },
+    {
+        "name": "Palm Coast",
+        "href": "https://www.att.com/stores/florida/palm-coast",
+        "done": 0
+    },
+    {
+        "name": "Panama City",
+        "href": "https://www.att.com/stores/florida/panama-city",
+        "done": 0
+    },
+    {
+        "name": "Pembroke Pines",
+        "href": "https://www.att.com/stores/florida/pembroke-pines",
+        "done": 0
+    },
+    {
+        "name": "Pensacola",
+        "href": "https://www.att.com/stores/florida/pensacola",
+        "done": 0
+    },
+    {
+        "name": "Plantation",
+        "href": "https://www.att.com/stores/florida/plantation",
+        "done": 0
+    },
+    {
+        "name": "Pompano Beach",
+        "href": "https://www.att.com/stores/florida/pompano-beach",
+        "done": 0
+    },
+    {
+        "name": "Port Orange",
+        "href": "https://www.att.com/stores/florida/port-orange",
+        "done": 0
+    },
+    {
+        "name": "Port St. Lucie",
+        "href": "https://www.att.com/stores/florida/port-st.-lucie",
+        "done": 0
+    },
+    {
+        "name": "Riverview",
+        "href": "https://www.att.com/stores/florida/riverview",
+        "done": 0
+    },
+    {
+        "name": "Saint Johns",
+        "href": "https://www.att.com/stores/florida/saint-johns",
+        "done": 0
+    },
+    {
+        "name": "Saint Petersburg",
+        "href": "https://www.att.com/stores/florida/saint-petersburg",
+        "done": 0
+    },
+    {
+        "name": "Sanford",
+        "href": "https://www.att.com/stores/florida/sanford",
+        "done": 0
+    },
+    {
+        "name": "Sarasota",
+        "href": "https://www.att.com/stores/florida/sarasota",
+        "done": 0
+    },
+    {
+        "name": "Spring Hill",
+        "href": "https://www.att.com/stores/florida/spring-hill",
+        "done": 0
+    },
+    {
+        "name": "St. Augustine",
+        "href": "https://www.att.com/stores/florida/st.-augustine",
+        "done": 0
+    },
+    {
+        "name": "St. Petersburg",
+        "href": "https://www.att.com/stores/florida/st.-petersburg",
+        "done": 0
+    },
+    {
+        "name": "Stuart",
+        "href": "https://www.att.com/stores/florida/stuart",
+        "done": 0
+    },
+    {
+        "name": "Sunrise",
+        "href": "https://www.att.com/stores/florida/sunrise",
+        "done": 0
+    },
+    {
+        "name": "Tallahassee",
+        "href": "https://www.att.com/stores/florida/tallahassee",
+        "done": 0
+    },
+    {
+        "name": "Tampa",
+        "href": "https://www.att.com/stores/florida/tampa",
+        "done": 0
+    },
+    {
+        "name": "The Villages",
+        "href": "https://www.att.com/stores/florida/the-villages",
+        "done": 0
+    },
+    {
+        "name": "Titusville",
+        "href": "https://www.att.com/stores/florida/titusville",
+        "done": 0
+    },
+    {
+        "name": "Venice",
+        "href": "https://www.att.com/stores/florida/venice",
+        "done": 0
+    },
+    {
+        "name": "Vero Beach",
+        "href": "https://www.att.com/stores/florida/vero-beach",
+        "done": 0
+    },
+    {
+        "name": "Wellington",
+        "href": "https://www.att.com/stores/florida/wellington",
+        "done": 0
+    },
+    {
+        "name": "Wesley Chapel",
+        "href": "https://www.att.com/stores/florida/wesley-chapel",
+        "done": 0
+    },
+    {
+        "name": "West Palm Beach",
+        "href": "https://www.att.com/stores/florida/west-palm-beach",
+        "done": 0
+    },
+    {
+        "name": "Weston",
+        "href": "https://www.att.com/stores/florida/weston",
+        "done": 0
+    },
+    {
+        "name": "Windermere",
+        "href": "https://www.att.com/stores/florida/windermere",
+        "done": 0
+    },
+    {
+        "name": "Winter Garden",
+        "href": "https://www.att.com/stores/florida/winter-garden",
+        "done": 0
+    },
+    {
+        "name": "Winter Haven",
+        "href": "https://www.att.com/stores/florida/winter-haven",
+        "done": 0
+    },
+    {
+        "name": "Winter Park",
+        "href": "https://www.att.com/stores/florida/winter-park",
+        "done": 0
+    },
+    {
+        "name": "Winter Springs",
+        "href": "https://www.att.com/stores/florida/winter-springs",
+        "done": 0
+    },
+    {
+        "name": "Alpharetta",
+        "href": "https://www.att.com/stores/georgia/alpharetta",
+        "done": 0
+    },
+    {
+        "name": "Athens",
+        "href": "https://www.att.com/stores/georgia/athens",
+        "done": 0
+    },
+    {
+        "name": "Atlanta",
+        "href": "https://www.att.com/stores/georgia/atlanta",
+        "done": 0
+    },
+    {
+        "name": "Buford",
+        "href": "https://www.att.com/stores/georgia/buford",
+        "done": 0
+    },
+    {
+        "name": "Canton",
+        "href": "https://www.att.com/stores/georgia/canton",
+        "done": 0
+    },
+    {
+        "name": "Columbus",
+        "href": "https://www.att.com/stores/georgia/columbus",
+        "done": 0
+    },
+    {
+        "name": "Conyers",
+        "href": "https://www.att.com/stores/georgia/conyers",
+        "done": 0
+    },
+    {
+        "name": "Cumming",
+        "href": "https://www.att.com/stores/georgia/cumming",
+        "done": 0
+    },
+    {
+        "name": "Decatur",
+        "href": "https://www.att.com/stores/georgia/decatur",
+        "done": 0
+    },
+    {
+        "name": "Douglasville",
+        "href": "https://www.att.com/stores/georgia/douglasville",
+        "done": 0
+    },
+    {
+        "name": "Duluth",
+        "href": "https://www.att.com/stores/georgia/duluth",
+        "done": 0
+    },
+    {
+        "name": "Fayetteville",
+        "href": "https://www.att.com/stores/georgia/fayetteville",
+        "done": 0
+    },
+    {
+        "name": "Flowery Branch",
+        "href": "https://www.att.com/stores/georgia/flowery-branch",
+        "done": 0
+    },
+    {
+        "name": "Gainesville",
+        "href": "https://www.att.com/stores/georgia/gainesville",
+        "done": 0
+    },
+    {
+        "name": "Hinesville",
+        "href": "https://www.att.com/stores/georgia/hinesville",
+        "done": 0
+    },
+    {
+        "name": "Kennesaw",
+        "href": "https://www.att.com/stores/georgia/kennesaw",
+        "done": 0
+    },
+    {
+        "name": "Lawrenceville",
+        "href": "https://www.att.com/stores/georgia/lawrenceville",
+        "done": 0
+    },
+    {
+        "name": "Macon",
+        "href": "https://www.att.com/stores/georgia/macon",
+        "done": 0
+    },
+    {
+        "name": "Marietta",
+        "href": "https://www.att.com/stores/georgia/marietta",
+        "done": 0
+    },
+    {
+        "name": "McDonough",
+        "href": "https://www.att.com/stores/georgia/mcdonough",
+        "done": 0
+    },
+    {
+        "name": "Norcross",
+        "href": "https://www.att.com/stores/georgia/norcross",
+        "done": 0
+    },
+    {
+        "name": "Peachtree City",
+        "href": "https://www.att.com/stores/georgia/peachtree-city",
+        "done": 0
+    },
+    {
+        "name": "Pooler",
+        "href": "https://www.att.com/stores/georgia/pooler",
+        "done": 0
+    },
+    {
+        "name": "Roswell",
+        "href": "https://www.att.com/stores/georgia/roswell",
+        "done": 0
+    },
+    {
+        "name": "Sandy Springs",
+        "href": "https://www.att.com/stores/georgia/sandy-springs",
+        "done": 0
+    },
+    {
+        "name": "Savannah",
+        "href": "https://www.att.com/stores/georgia/savannah",
+        "done": 0
+    },
+    {
+        "name": "Suwanee",
+        "href": "https://www.att.com/stores/georgia/suwanee",
+        "done": 0
+    },
+    {
+        "name": "Valdosta",
+        "href": "https://www.att.com/stores/georgia/valdosta",
+        "done": 0
+    },
+    {
+        "name": "Woodstock",
+        "href": "https://www.att.com/stores/georgia/woodstock",
+        "done": 0
+    },
+    {
+        "name": "Hilo",
+        "href": "https://www.att.com/stores/hawaii/hilo",
+        "done": 0
+    },
+    {
+        "name": "Honolulu",
+        "href": "https://www.att.com/stores/hawaii/honolulu",
+        "done": 0
+    },
+    {
+        "name": "Kaneohe",
+        "href": "https://www.att.com/stores/hawaii/kaneohe",
+        "done": 0
+    },
+    {
+        "name": "Kapolei",
+        "href": "https://www.att.com/stores/hawaii/kapolei",
+        "done": 0
+    },
+    {
+        "name": "Boise",
+        "href": "https://www.att.com/stores/idaho/boise",
+        "done": 0
+    },
+    {
+        "name": "Meridian",
+        "href": "https://www.att.com/stores/idaho/meridian",
+        "done": 0
+    },
+    {
+        "name": "Nampa",
+        "href": "https://www.att.com/stores/idaho/nampa",
+        "done": 0
+    },
+    {
+        "name": "Aurora",
+        "href": "https://www.att.com/stores/illinois/aurora",
+        "done": 0
+    },
+    {
+        "name": "Bloomington",
+        "href": "https://www.att.com/stores/illinois/bloomington",
+        "done": 0
+    },
+    {
+        "name": "Bolingbrook",
+        "href": "https://www.att.com/stores/illinois/bolingbrook",
+        "done": 0
+    },
+    {
+        "name": "Buffalo Grove",
+        "href": "https://www.att.com/stores/illinois/buffalo-grove",
+        "done": 0
+    },
+    {
+        "name": "Champaign",
+        "href": "https://www.att.com/stores/illinois/champaign",
+        "done": 0
+    },
+    {
+        "name": "Chicago",
+        "href": "https://www.att.com/stores/illinois/chicago",
+        "done": 0
+    },
+    {
+        "name": "Danville",
+        "href": "https://www.att.com/stores/illinois/danville",
+        "done": 0
+    },
+    {
+        "name": "Decatur",
+        "href": "https://www.att.com/stores/illinois/decatur",
+        "done": 0
+    },
+    {
+        "name": "Joliet",
+        "href": "https://www.att.com/stores/illinois/joliet",
+        "done": 0
+    },
+    {
+        "name": "Naperville",
+        "href": "https://www.att.com/stores/illinois/naperville",
+        "done": 0
+    },
+    {
+        "name": "Niles",
+        "href": "https://www.att.com/stores/illinois/niles",
+        "done": 0
+    },
+    {
+        "name": "Northbrook",
+        "href": "https://www.att.com/stores/illinois/northbrook",
+        "done": 0
+    },
+    {
+        "name": "Oakbrook Terrace",
+        "href": "https://www.att.com/stores/illinois/oakbrook-terrace",
+        "done": 0
+    },
+    {
+        "name": "Orland Park",
+        "href": "https://www.att.com/stores/illinois/orland-park",
+        "done": 0
+    },
+    {
+        "name": "Peoria",
+        "href": "https://www.att.com/stores/illinois/peoria",
+        "done": 0
+    },
+    {
+        "name": "Schaumburg",
+        "href": "https://www.att.com/stores/illinois/schaumburg",
+        "done": 0
+    },
+    {
+        "name": "Skokie",
+        "href": "https://www.att.com/stores/illinois/skokie",
+        "done": 0
+    },
+    {
+        "name": "Springfield",
+        "href": "https://www.att.com/stores/illinois/springfield",
+        "done": 0
+    },
+    {
+        "name": "West Chicago",
+        "href": "https://www.att.com/stores/illinois/west-chicago",
+        "done": 0
+    },
+    {
+        "name": "Bloomington",
+        "href": "https://www.att.com/stores/indiana/bloomington",
+        "done": 0
+    },
+    {
+        "name": "Carmel",
+        "href": "https://www.att.com/stores/indiana/carmel",
+        "done": 0
+    },
+    {
+        "name": "Elkhart",
+        "href": "https://www.att.com/stores/indiana/elkhart",
+        "done": 0
+    },
+    {
+        "name": "Evansville",
+        "href": "https://www.att.com/stores/indiana/evansville",
+        "done": 0
+    },
+    {
+        "name": "Fishers",
+        "href": "https://www.att.com/stores/indiana/fishers",
+        "done": 0
+    },
+    {
+        "name": "Fort Wayne",
+        "href": "https://www.att.com/stores/indiana/fort-wayne",
+        "done": 0
+    },
+    {
+        "name": "Greenwood",
+        "href": "https://www.att.com/stores/indiana/greenwood",
+        "done": 0
+    },
+    {
+        "name": "Hammond",
+        "href": "https://www.att.com/stores/indiana/hammond",
+        "done": 0
+    },
+    {
+        "name": "Indianapolis",
+        "href": "https://www.att.com/stores/indiana/indianapolis",
+        "done": 0
+    },
+    {
+        "name": "Jasper",
+        "href": "https://www.att.com/stores/indiana/jasper",
+        "done": 0
+    },
+    {
+        "name": "Jeffersonville",
+        "href": "https://www.att.com/stores/indiana/jeffersonville",
+        "done": 0
+    },
+    {
+        "name": "Lafayette",
+        "href": "https://www.att.com/stores/indiana/lafayette",
+        "done": 0
+    },
+    {
+        "name": "Mishawaka",
+        "href": "https://www.att.com/stores/indiana/mishawaka",
+        "done": 0
+    },
+    {
+        "name": "Noblesville",
+        "href": "https://www.att.com/stores/indiana/noblesville",
+        "done": 0
+    },
+    {
+        "name": "Schererville",
+        "href": "https://www.att.com/stores/indiana/schererville",
+        "done": 0
+    },
+    {
+        "name": "South Bend",
+        "href": "https://www.att.com/stores/indiana/south-bend",
+        "done": 0
+    },
+    {
+        "name": "Terre Haute",
+        "href": "https://www.att.com/stores/indiana/terre-haute",
+        "done": 0
+    },
+    {
+        "name": "Warsaw",
+        "href": "https://www.att.com/stores/indiana/warsaw",
+        "done": 0
+    },
+    {
+        "name": "Burlington",
+        "href": "https://www.att.com/stores/iowa/burlington/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "Cedar Falls",
+        "href": "https://www.att.com/stores/iowa/cedar-falls/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "Cedar Rapids",
+        "href": "https://www.att.com/stores/iowa/cedar-rapids",
+        "done": 0
+    },
+    {
+        "name": "Clinton",
+        "href": "https://www.att.com/stores/iowa/clinton/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "Council Bluffs",
+        "href": "https://www.att.com/stores/iowa/council-bluffs",
+        "done": 0
+    },
+    {
+        "name": "Davenport",
+        "href": "https://www.att.com/stores/iowa/davenport",
+        "done": 0
+    },
+    {
+        "name": "Fort Dodge",
+        "href": "https://www.att.com/stores/iowa/fort-dodge/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "Indianola",
+        "href": "https://www.att.com/stores/iowa/indianola/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "Marion",
+        "href": "https://www.att.com/stores/iowa/marion/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "Mason City",
+        "href": "https://www.att.com/stores/iowa/mason-city/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "Muscatine",
+        "href": "https://www.att.com/stores/iowa/muscatine/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "Newton",
+        "href": "https://www.att.com/stores/iowa/newton/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "Ottumwa",
+        "href": "https://www.att.com/stores/iowa/ottumwa/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "Sioux City",
+        "href": "https://www.att.com/stores/iowa/sioux-city",
+        "done": 0
+    },
+    {
+        "name": "Waukee",
+        "href": "https://www.att.com/stores/iowa/waukee",
+        "done": 0
+    },
+    {
+        "name": "West Des Moines",
+        "href": "https://www.att.com/stores/iowa/west-des-moines",
+        "done": 0
+    },
+    {
+        "name": "Lawrence",
+        "href": "https://www.att.com/stores/kansas/lawrence",
+        "done": 0
+    },
+    {
+        "name": "Olathe",
+        "href": "https://www.att.com/stores/kansas/olathe",
+        "done": 0
+    },
+    {
+        "name": "Overland Park",
+        "href": "https://www.att.com/stores/kansas/overland-park",
+        "done": 0
+    },
+    {
+        "name": "Topeka",
+        "href": "https://www.att.com/stores/kansas/topeka",
+        "done": 0
+    },
+    {
+        "name": "Wichita",
+        "href": "https://www.att.com/stores/kansas/wichita",
+        "done": 0
+    },
+    {
+        "name": "Ashland",
+        "href": "https://www.att.com/stores/kentucky/ashland",
+        "done": 0
+    },
+    {
+        "name": "Bowling Green",
+        "href": "https://www.att.com/stores/kentucky/bowling-green",
+        "done": 0
+    },
+    {
+        "name": "Frankfort",
+        "href": "https://www.att.com/stores/kentucky/frankfort",
+        "done": 0
+    },
+    {
+        "name": "Georgetown",
+        "href": "https://www.att.com/stores/kentucky/georgetown",
+        "done": 0
+    },
+    {
+        "name": "Lexington",
+        "href": "https://www.att.com/stores/kentucky/lexington",
+        "done": 0
+    },
+    {
+        "name": "Louisville",
+        "href": "https://www.att.com/stores/kentucky/louisville",
+        "done": 0
+    },
+    {
+        "name": "Owensboro",
+        "href": "https://www.att.com/stores/kentucky/owensboro",
+        "done": 0
+    },
+    {
+        "name": "Paducah",
+        "href": "https://www.att.com/stores/kentucky/paducah",
+        "done": 0
+    },
+    {
+        "name": "Richmond",
+        "href": "https://www.att.com/stores/kentucky/richmond",
+        "done": 0
+    },
+    {
+        "name": "Alexandria",
+        "href": "https://www.att.com/stores/louisiana/alexandria",
+        "done": 0
+    },
+    {
+        "name": "Baton Rouge",
+        "href": "https://www.att.com/stores/louisiana/baton-rouge",
+        "done": 0
+    },
+    {
+        "name": "Bossier City",
+        "href": "https://www.att.com/stores/louisiana/bossier-city",
+        "done": 0
+    },
+    {
+        "name": "Covington",
+        "href": "https://www.att.com/stores/louisiana/covington",
+        "done": 0
+    },
+    {
+        "name": "Denham Springs",
+        "href": "https://www.att.com/stores/louisiana/denham-springs",
+        "done": 0
+    },
+    {
+        "name": "Hammond",
+        "href": "https://www.att.com/stores/louisiana/hammond",
+        "done": 0
+    },
+    {
+        "name": "Houma",
+        "href": "https://www.att.com/stores/louisiana/houma",
+        "done": 0
+    },
+    {
+        "name": "Kenner",
+        "href": "https://www.att.com/stores/louisiana/kenner",
+        "done": 0
+    },
+    {
+        "name": "Lafayette",
+        "href": "https://www.att.com/stores/louisiana/lafayette",
+        "done": 0
+    },
+    {
+        "name": "Lake Charles",
+        "href": "https://www.att.com/stores/louisiana/lake-charles",
+        "done": 0
+    },
+    {
+        "name": "Mandeville",
+        "href": "https://www.att.com/stores/louisiana/mandeville",
+        "done": 0
+    },
+    {
+        "name": "Metairie",
+        "href": "https://www.att.com/stores/louisiana/metairie",
+        "done": 0
+    },
+    {
+        "name": "Monroe",
+        "href": "https://www.att.com/stores/louisiana/monroe",
+        "done": 0
+    },
+    {
+        "name": "New Orleans",
+        "href": "https://www.att.com/stores/louisiana/new-orleans",
+        "done": 0
+    },
+    {
+        "name": "Pineville",
+        "href": "https://www.att.com/stores/louisiana/pineville",
+        "done": 0
+    },
+    {
+        "name": "Shreveport",
+        "href": "https://www.att.com/stores/louisiana/shreveport",
+        "done": 0
+    },
+    {
+        "name": "Slidell",
+        "href": "https://www.att.com/stores/louisiana/slidell",
+        "done": 0
+    },
+    {
+        "name": "Sulphur",
+        "href": "https://www.att.com/stores/louisiana/sulphur",
+        "done": 0
+    },
+    {
+        "name": "Calais",
+        "href": "https://www.att.com/stores/maine/calais/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "Dexter",
+        "href": "https://www.att.com/stores/maine/dexter/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "Holden",
+        "href": "https://www.att.com/stores/maine/holden/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "Kingfield",
+        "href": "https://www.att.com/stores/maine/kingfield/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "Madawaska",
+        "href": "https://www.att.com/stores/maine/madawaska/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "Millinocket",
+        "href": "https://www.att.com/stores/maine/millinocket/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "Presque Isle",
+        "href": "https://www.att.com/stores/maine/presque-isle/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "Rangely",
+        "href": "https://www.att.com/stores/maine/rangely/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "Skowhegan",
+        "href": "https://www.att.com/stores/maine/skowhegan/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "South Paris",
+        "href": "https://www.att.com/stores/maine/south-paris/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "South Portland",
+        "href": "https://www.att.com/stores/maine/south-portland",
+        "done": 0
+    },
+    {
+        "name": "Van Buren",
+        "href": "https://www.att.com/stores/maine/van-buren/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "Annapolis",
+        "href": "https://www.att.com/stores/maryland/annapolis",
+        "done": 0
+    },
+    {
+        "name": "Baltimore",
+        "href": "https://www.att.com/stores/maryland/baltimore",
+        "done": 0
+    },
+    {
+        "name": "Bel Air",
+        "href": "https://www.att.com/stores/maryland/bel-air",
+        "done": 0
+    },
+    {
+        "name": "Bethesda",
+        "href": "https://www.att.com/stores/maryland/bethesda",
+        "done": 0
+    },
+    {
+        "name": "Bowie",
+        "href": "https://www.att.com/stores/maryland/bowie",
+        "done": 0
+    },
+    {
+        "name": "Columbia",
+        "href": "https://www.att.com/stores/maryland/columbia",
+        "done": 0
+    },
+    {
+        "name": "Ellicott City",
+        "href": "https://www.att.com/stores/maryland/ellicott-city",
+        "done": 0
+    },
+    {
+        "name": "Frederick",
+        "href": "https://www.att.com/stores/maryland/frederick",
+        "done": 0
+    },
+    {
+        "name": "Hagerstown",
+        "href": "https://www.att.com/stores/maryland/hagerstown",
+        "done": 0
+    },
+    {
+        "name": "Hanover",
+        "href": "https://www.att.com/stores/maryland/hanover",
+        "done": 0
+    },
+    {
+        "name": "Hyattsville",
+        "href": "https://www.att.com/stores/maryland/hyattsville",
+        "done": 0
+    },
+    {
+        "name": "Laurel",
+        "href": "https://www.att.com/stores/maryland/laurel",
+        "done": 0
+    },
+    {
+        "name": "Lavale",
+        "href": "https://www.att.com/stores/maryland/lavale",
+        "done": 0
+    },
+    {
+        "name": "Rockville",
+        "href": "https://www.att.com/stores/maryland/rockville",
+        "done": 0
+    },
+    {
+        "name": "Silver Spring",
+        "href": "https://www.att.com/stores/maryland/silver-spring",
+        "done": 0
+    },
+    {
+        "name": "Wheaton",
+        "href": "https://www.att.com/stores/maryland/wheaton",
+        "done": 0
+    },
+    {
+        "name": "Boston",
+        "href": "https://www.att.com/stores/massachusetts/boston",
+        "done": 0
+    },
+    {
+        "name": "Burlington",
+        "href": "https://www.att.com/stores/massachusetts/burlington",
+        "done": 0
+    },
+    {
+        "name": "Cambridge",
+        "href": "https://www.att.com/stores/massachusetts/cambridge",
+        "done": 0
+    },
+    {
+        "name": "Framingham",
+        "href": "https://www.att.com/stores/massachusetts/framingham",
+        "done": 0
+    },
+    {
+        "name": "Hyannis",
+        "href": "https://www.att.com/stores/massachusetts/hyannis",
+        "done": 0
+    },
+    {
+        "name": "Leominster",
+        "href": "https://www.att.com/stores/massachusetts/leominster",
+        "done": 0
+    },
+    {
+        "name": "Marlborough",
+        "href": "https://www.att.com/stores/massachusetts/marlborough",
+        "done": 0
+    },
+    {
+        "name": "Peabody",
+        "href": "https://www.att.com/stores/massachusetts/peabody",
+        "done": 0
+    },
+    {
+        "name": "Plymouth",
+        "href": "https://www.att.com/stores/massachusetts/plymouth",
+        "done": 0
+    },
+    {
+        "name": "Saugus",
+        "href": "https://www.att.com/stores/massachusetts/saugus",
+        "done": 0
+    },
+    {
+        "name": "Worcester",
+        "href": "https://www.att.com/stores/massachusetts/worcester",
+        "done": 0
+    },
+    {
+        "name": "Ann Arbor",
+        "href": "https://www.att.com/stores/michigan/ann-arbor",
+        "done": 0
+    },
+    {
+        "name": "Auburn Hills",
+        "href": "https://www.att.com/stores/michigan/auburn-hills",
+        "done": 0
+    },
+    {
+        "name": "Battle Creek",
+        "href": "https://www.att.com/stores/michigan/battle-creek",
+        "done": 0
+    },
+    {
+        "name": "Brighton",
+        "href": "https://www.att.com/stores/michigan/brighton",
+        "done": 0
+    },
+    {
+        "name": "Canton",
+        "href": "https://www.att.com/stores/michigan/canton",
+        "done": 0
+    },
+    {
+        "name": "Clarkston",
+        "href": "https://www.att.com/stores/michigan/clarkston",
+        "done": 0
+    },
+    {
+        "name": "Clinton Township",
+        "href": "https://www.att.com/stores/michigan/clinton-township",
+        "done": 0
+    },
+    {
+        "name": "Dearborn",
+        "href": "https://www.att.com/stores/michigan/dearborn",
+        "done": 0
+    },
+    {
+        "name": "Detroit",
+        "href": "https://www.att.com/stores/michigan/detroit",
+        "done": 0
+    },
+    {
+        "name": "Farmington Hills",
+        "href": "https://www.att.com/stores/michigan/farmington-hills",
+        "done": 0
+    },
+    {
+        "name": "Grand Rapids",
+        "href": "https://www.att.com/stores/michigan/grand-rapids",
+        "done": 0
+    },
+    {
+        "name": "Jackson",
+        "href": "https://www.att.com/stores/michigan/jackson",
+        "done": 0
+    },
+    {
+        "name": "Kalamazoo",
+        "href": "https://www.att.com/stores/michigan/kalamazoo",
+        "done": 0
+    },
+    {
+        "name": "Kentwood",
+        "href": "https://www.att.com/stores/michigan/kentwood",
+        "done": 0
+    },
+    {
+        "name": "Lansing",
+        "href": "https://www.att.com/stores/michigan/lansing",
+        "done": 0
+    },
+    {
+        "name": "Livonia",
+        "href": "https://www.att.com/stores/michigan/livonia",
+        "done": 0
+    },
+    {
+        "name": "Madison Heights",
+        "href": "https://www.att.com/stores/michigan/madison-heights",
+        "done": 0
+    },
+    {
+        "name": "Novi",
+        "href": "https://www.att.com/stores/michigan/novi",
+        "done": 0
+    },
+    {
+        "name": "Okemos",
+        "href": "https://www.att.com/stores/michigan/okemos",
+        "done": 0
+    },
+    {
+        "name": "Petoskey",
+        "href": "https://www.att.com/stores/michigan/petoskey",
+        "done": 0
+    },
+    {
+        "name": "Roseville",
+        "href": "https://www.att.com/stores/michigan/roseville",
+        "done": 0
+    },
+    {
+        "name": "Royal Oak",
+        "href": "https://www.att.com/stores/michigan/royal-oak",
+        "done": 0
+    },
+    {
+        "name": "Saginaw",
+        "href": "https://www.att.com/stores/michigan/saginaw",
+        "done": 0
+    },
+    {
+        "name": "Shelby Township",
+        "href": "https://www.att.com/stores/michigan/shelby-township",
+        "done": 0
+    },
+    {
+        "name": "Southfield",
+        "href": "https://www.att.com/stores/michigan/southfield",
+        "done": 0
+    },
+    {
+        "name": "Sterling Heights",
+        "href": "https://www.att.com/stores/michigan/sterling-heights",
+        "done": 0
+    },
+    {
+        "name": "Taylor",
+        "href": "https://www.att.com/stores/michigan/taylor",
+        "done": 0
+    },
+    {
+        "name": "Traverse City",
+        "href": "https://www.att.com/stores/michigan/traverse-city",
+        "done": 0
+    },
+    {
+        "name": "Troy",
+        "href": "https://www.att.com/stores/michigan/troy",
+        "done": 0
+    },
+    {
+        "name": "Wyoming",
+        "href": "https://www.att.com/stores/michigan/wyoming",
+        "done": 0
+    },
+    {
+        "name": "Apple Valley",
+        "href": "https://www.att.com/stores/minnesota/apple-valley",
+        "done": 0
+    },
+    {
+        "name": "Blaine",
+        "href": "https://www.att.com/stores/minnesota/blaine",
+        "done": 0
+    },
+    {
+        "name": "Duluth",
+        "href": "https://www.att.com/stores/minnesota/duluth",
+        "done": 0
+    },
+    {
+        "name": "Edina",
+        "href": "https://www.att.com/stores/minnesota/edina",
+        "done": 0
+    },
+    {
+        "name": "Maple Grove",
+        "href": "https://www.att.com/stores/minnesota/maple-grove",
+        "done": 0
+    },
+    {
+        "name": "Minneapolis",
+        "href": "https://www.att.com/stores/minnesota/minneapolis",
+        "done": 0
+    },
+    {
+        "name": "Rochester",
+        "href": "https://www.att.com/stores/minnesota/rochester",
+        "done": 0
+    },
+    {
+        "name": "Roseville",
+        "href": "https://www.att.com/stores/minnesota/roseville",
+        "done": 0
+    },
+    {
+        "name": "Saint Cloud",
+        "href": "https://www.att.com/stores/minnesota/saint-cloud",
+        "done": 0
+    },
+    {
+        "name": "Shakopee",
+        "href": "https://www.att.com/stores/minnesota/shakopee",
+        "done": 0
+    },
+    {
+        "name": "Biloxi",
+        "href": "https://www.att.com/stores/mississippi/biloxi",
+        "done": 0
+    },
+    {
+        "name": "Brandon",
+        "href": "https://www.att.com/stores/mississippi/brandon",
+        "done": 0
+    },
+    {
+        "name": "Columbus",
+        "href": "https://www.att.com/stores/mississippi/columbus",
+        "done": 0
+    },
+    {
+        "name": "Hattiesburg",
+        "href": "https://www.att.com/stores/mississippi/hattiesburg",
+        "done": 0
+    },
+    {
+        "name": "Madison",
+        "href": "https://www.att.com/stores/mississippi/madison",
+        "done": 0
+    },
+    {
+        "name": "Meridian",
+        "href": "https://www.att.com/stores/mississippi/meridian",
+        "done": 0
+    },
+    {
+        "name": "Natchez",
+        "href": "https://www.att.com/stores/mississippi/natchez",
+        "done": 0
+    },
+    {
+        "name": "Ridgeland",
+        "href": "https://www.att.com/stores/mississippi/ridgeland",
+        "done": 0
+    },
+    {
+        "name": "Southaven",
+        "href": "https://www.att.com/stores/mississippi/southaven",
+        "done": 0
+    },
+    {
+        "name": "Tupelo",
+        "href": "https://www.att.com/stores/mississippi/tupelo",
+        "done": 0
+    },
+    {
+        "name": "Chesterfield",
+        "href": "https://www.att.com/stores/missouri/chesterfield",
+        "done": 0
+    },
+    {
+        "name": "Columbia",
+        "href": "https://www.att.com/stores/missouri/columbia",
+        "done": 0
+    },
+    {
+        "name": "Independence",
+        "href": "https://www.att.com/stores/missouri/independence",
+        "done": 0
+    },
+    {
+        "name": "Kansas City",
+        "href": "https://www.att.com/stores/missouri/kansas-city",
+        "done": 0
+    },
+    {
+        "name": "Lees Summit",
+        "href": "https://www.att.com/stores/missouri/lees-summit",
+        "done": 0
+    },
+    {
+        "name": "Saint Joseph",
+        "href": "https://www.att.com/stores/missouri/saint-joseph",
+        "done": 0
+    },
+    {
+        "name": "Saint Louis",
+        "href": "https://www.att.com/stores/missouri/saint-louis",
+        "done": 0
+    },
+    {
+        "name": "Springfield",
+        "href": "https://www.att.com/stores/missouri/springfield",
+        "done": 0
+    },
+    {
+        "name": "St. Louis",
+        "href": "https://www.att.com/stores/missouri/st.-louis",
+        "done": 0
+    },
+    {
+        "name": "St. Peters",
+        "href": "https://www.att.com/stores/missouri/st.-peters",
+        "done": 0
+    },
+    {
+        "name": "Billings",
+        "href": "https://www.att.com/stores/montana/billings",
+        "done": 0
+    },
+    {
+        "name": "Great Falls",
+        "href": "https://www.att.com/stores/montana/great-falls",
+        "done": 0
+    },
+    {
+        "name": "Kalispell",
+        "href": "https://www.att.com/stores/montana/kalispell",
+        "done": 0
+    },
+    {
+        "name": "Missoula",
+        "href": "https://www.att.com/stores/montana/missoula",
+        "done": 0
+    },
+    {
+        "name": "Beatrice",
+        "href": "https://www.att.com/stores/nebraska/beatrice/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "Columbus",
+        "href": "https://www.att.com/stores/nebraska/columbus/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "Grand Island",
+        "href": "https://www.att.com/stores/nebraska/grand-island/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "Hastings",
+        "href": "https://www.att.com/stores/nebraska/hastings/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "Kearney",
+        "href": "https://www.att.com/stores/nebraska/kearney/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "Lexington",
+        "href": "https://www.att.com/stores/nebraska/lexington/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "Norfolk",
+        "href": "https://www.att.com/stores/nebraska/norfolk",
+        "done": 0
+    },
+    {
+        "name": "North Platte",
+        "href": "https://www.att.com/stores/nebraska/north-platte/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "Omaha",
+        "href": "https://www.att.com/stores/nebraska/omaha",
+        "done": 0
+    },
+    {
+        "name": "Papillion",
+        "href": "https://www.att.com/stores/nebraska/papillion",
+        "done": 0
+    },
+    {
+        "name": "Scottsbluff",
+        "href": "https://www.att.com/stores/nebraska/scottsbluff/cell-phones",
+        "done": 0
+    },
+    {
+        "name": "Carson City",
+        "href": "https://www.att.com/stores/nevada/carson-city",
+        "done": 0
+    },
+    {
+        "name": "Henderson",
+        "href": "https://www.att.com/stores/nevada/henderson",
+        "done": 0
+    },
+    {
+        "name": "Las Vegas",
+        "href": "https://www.att.com/stores/nevada/las-vegas",
+        "done": 0
+    },
+    {
+        "name": "North Las Vegas",
+        "href": "https://www.att.com/stores/nevada/north-las-vegas",
+        "done": 0
+    },
+    {
+        "name": "Reno",
+        "href": "https://www.att.com/stores/nevada/reno",
+        "done": 0
+    },
+    {
+        "name": "Sparks",
+        "href": "https://www.att.com/stores/nevada/sparks",
+        "done": 0
+    },
+    {
+        "name": "Manchester",
+        "href": "https://www.att.com/stores/new-hampshire/manchester",
+        "done": 0
+    },
+    {
+        "name": "Nashua",
+        "href": "https://www.att.com/stores/new-hampshire/nashua",
+        "done": 0
+    },
+    {
+        "name": "Cherry Hill",
+        "href": "https://www.att.com/stores/new-jersey/cherry-hill",
+        "done": 0
+    },
+    {
+        "name": "East Brunswick",
+        "href": "https://www.att.com/stores/new-jersey/east-brunswick",
+        "done": 0
+    },
+    {
+        "name": "Edison",
+        "href": "https://www.att.com/stores/new-jersey/edison",
+        "done": 0
+    },
+    {
+        "name": "Fort Lee",
+        "href": "https://www.att.com/stores/new-jersey/fort-lee",
+        "done": 0
+    },
+    {
+        "name": "Freehold",
+        "href": "https://www.att.com/stores/new-jersey/freehold",
+        "done": 0
+    },
+    {
+        "name": "Hamilton",
+        "href": "https://www.att.com/stores/new-jersey/hamilton",
+        "done": 0
+    },
+    {
+        "name": "Jersey City",
+        "href": "https://www.att.com/stores/new-jersey/jersey-city",
+        "done": 0
+    },
+    {
+        "name": "Lawrenceville",
+        "href": "https://www.att.com/stores/new-jersey/lawrenceville",
+        "done": 0
+    },
+    {
+        "name": "Livingston",
+        "href": "https://www.att.com/stores/new-jersey/livingston",
+        "done": 0
+    },
+    {
+        "name": "Marlton",
+        "href": "https://www.att.com/stores/new-jersey/marlton",
+        "done": 0
+    },
+    {
+        "name": "Newark",
+        "href": "https://www.att.com/stores/new-jersey/newark",
+        "done": 0
+    },
+    {
+        "name": "Paramus",
+        "href": "https://www.att.com/stores/new-jersey/paramus",
+        "done": 0
+    },
+    {
+        "name": "Rockaway",
+        "href": "https://www.att.com/stores/new-jersey/rockaway",
+        "done": 0
+    },
+    {
+        "name": "Short Hills",
+        "href": "https://www.att.com/stores/new-jersey/short-hills",
+        "done": 0
+    },
+    {
+        "name": "Toms River",
+        "href": "https://www.att.com/stores/new-jersey/toms-river",
+        "done": 0
+    },
+    {
+        "name": "Vineland",
+        "href": "https://www.att.com/stores/new-jersey/vineland",
+        "done": 0
+    },
+    {
+        "name": "Wayne",
+        "href": "https://www.att.com/stores/new-jersey/wayne",
+        "done": 0
+    },
+    {
+        "name": "Woodbury",
+        "href": "https://www.att.com/stores/new-jersey/woodbury",
+        "done": 0
+    },
+    {
+        "name": "Albuquerque",
+        "href": "https://www.att.com/stores/new-mexico/albuquerque",
+        "done": 0
+    },
+    {
+        "name": "Farmington",
+        "href": "https://www.att.com/stores/new-mexico/farmington",
+        "done": 0
+    },
+    {
+        "name": "Hobbs",
+        "href": "https://www.att.com/stores/new-mexico/hobbs",
+        "done": 0
+    },
+    {
+        "name": "Las Cruces",
+        "href": "https://www.att.com/stores/new-mexico/las-cruces",
+        "done": 0
+    },
+    {
+        "name": "Albany",
+        "href": "https://www.att.com/stores/new-york/albany",
+        "done": 0
+    },
+    {
+        "name": "Astoria",
+        "href": "https://www.att.com/stores/new-york/astoria",
+        "done": 0
+    },
+    {
+        "name": "Bay Shore",
+        "href": "https://www.att.com/stores/new-york/bay-shore",
+        "done": 0
+    },
+    {
+        "name": "Bayside",
+        "href": "https://www.att.com/stores/new-york/bayside",
+        "done": 0
+    },
+    {
+        "name": "Bronx",
+        "href": "https://www.att.com/stores/new-york/bronx",
+        "done": 0
+    },
+    {
+        "name": "Brooklyn",
+        "href": "https://www.att.com/stores/new-york/brooklyn",
+        "done": 0
+    },
+    {
+        "name": "Buffalo",
+        "href": "https://www.att.com/stores/new-york/buffalo",
+        "done": 0
+    },
+    {
+        "name": "Commack",
+        "href": "https://www.att.com/stores/new-york/commack",
+        "done": 0
+    },
+    {
+        "name": "Corona",
+        "href": "https://www.att.com/stores/new-york/corona",
+        "done": 0
+    },
+    {
+        "name": "Cortland",
+        "href": "https://www.att.com/stores/new-york/cortland",
+        "done": 0
+    },
+    {
+        "name": "East Meadow",
+        "href": "https://www.att.com/stores/new-york/east-meadow",
+        "done": 0
+    },
+    {
+        "name": "East Setauket",
+        "href": "https://www.att.com/stores/new-york/east-setauket",
+        "done": 0
+    },
+    {
+        "name": "Floral Park",
+        "href": "https://www.att.com/stores/new-york/floral-park",
+        "done": 0
+    },
+    {
+        "name": "Flushing",
+        "href": "https://www.att.com/stores/new-york/flushing",
+        "done": 0
+    },
+    {
+        "name": "Forest Hills",
+        "href": "https://www.att.com/stores/new-york/forest-hills",
+        "done": 0
+    },
+    {
+        "name": "Fresh Meadows",
+        "href": "https://www.att.com/stores/new-york/fresh-meadows",
+        "done": 0
+    },
+    {
+        "name": "Jamaica",
+        "href": "https://www.att.com/stores/new-york/jamaica",
+        "done": 0
+    },
+    {
+        "name": "Lake Grove",
+        "href": "https://www.att.com/stores/new-york/lake-grove",
+        "done": 0
+    },
+    {
+        "name": "Merrick",
+        "href": "https://www.att.com/stores/new-york/merrick",
+        "done": 0
+    },
+    {
+        "name": "New Hyde Park",
+        "href": "https://www.att.com/stores/new-york/new-hyde-park",
+        "done": 0
+    },
+    {
+        "name": "New York",
+        "href": "https://www.att.com/stores/new-york/new-york",
+        "done": 0
+    },
+    {
+        "name": "Poughkeepsie",
+        "href": "https://www.att.com/stores/new-york/poughkeepsie",
+        "done": 0
+    },
+    {
+        "name": "Queensbury",
+        "href": "https://www.att.com/stores/new-york/queensbury",
+        "done": 0
+    },
+    {
+        "name": "Ridgewood",
+        "href": "https://www.att.com/stores/new-york/ridgewood",
+        "done": 0
+    },
+    {
+        "name": "Rochester",
+        "href": "https://www.att.com/stores/new-york/rochester",
+        "done": 0
+    },
+    {
+        "name": "Schenectady",
+        "href": "https://www.att.com/stores/new-york/schenectady",
+        "done": 0
+    },
+    {
+        "name": "Staten Island",
+        "href": "https://www.att.com/stores/new-york/staten-island",
+        "done": 0
+    },
+    {
+        "name": "Syracuse",
+        "href": "https://www.att.com/stores/new-york/syracuse",
+        "done": 0
+    },
+    {
+        "name": "Tonawanda",
+        "href": "https://www.att.com/stores/new-york/tonawanda",
+        "done": 0
+    },
+    {
+        "name": "Valley Stream",
+        "href": "https://www.att.com/stores/new-york/valley-stream",
+        "done": 0
+    },
+    {
+        "name": "Vestal",
+        "href": "https://www.att.com/stores/new-york/vestal",
+        "done": 0
+    },
+    {
+        "name": "Victor",
+        "href": "https://www.att.com/stores/new-york/victor",
+        "done": 0
+    },
+    {
+        "name": "Watertown",
+        "href": "https://www.att.com/stores/new-york/watertown",
+        "done": 0
+    },
+    {
+        "name": "West Islip",
+        "href": "https://www.att.com/stores/new-york/west-islip",
+        "done": 0
+    },
+    {
+        "name": "Yonkers",
+        "href": "https://www.att.com/stores/new-york/yonkers",
+        "done": 0
+    },
+    {
+        "name": "Asheville",
+        "href": "https://www.att.com/stores/north-carolina/asheville",
+        "done": 0
+    },
+    {
+        "name": "Cary",
+        "href": "https://www.att.com/stores/north-carolina/cary",
+        "done": 0
+    },
+    {
+        "name": "Charlotte",
+        "href": "https://www.att.com/stores/north-carolina/charlotte",
+        "done": 0
+    },
+    {
+        "name": "Concord",
+        "href": "https://www.att.com/stores/north-carolina/concord",
+        "done": 0
+    },
+    {
+        "name": "Durham",
+        "href": "https://www.att.com/stores/north-carolina/durham",
+        "done": 0
+    },
+    {
+        "name": "Fayetteville",
+        "href": "https://www.att.com/stores/north-carolina/fayetteville",
+        "done": 0
+    },
+    {
+        "name": "Garner",
+        "href": "https://www.att.com/stores/north-carolina/garner",
+        "done": 0
+    },
+    {
+        "name": "Gastonia",
+        "href": "https://www.att.com/stores/north-carolina/gastonia",
+        "done": 0
+    },
+    {
+        "name": "Greensboro",
+        "href": "https://www.att.com/stores/north-carolina/greensboro",
+        "done": 0
+    },
+    {
+        "name": "High Point",
+        "href": "https://www.att.com/stores/north-carolina/high-point",
+        "done": 0
+    },
+    {
+        "name": "Jacksonville",
+        "href": "https://www.att.com/stores/north-carolina/jacksonville",
+        "done": 0
+    },
+    {
+        "name": "Raleigh",
+        "href": "https://www.att.com/stores/north-carolina/raleigh",
+        "done": 0
+    },
+    {
+        "name": "Statesville",
+        "href": "https://www.att.com/stores/north-carolina/statesville",
+        "done": 0
+    },
+    {
+        "name": "Wilmington",
+        "href": "https://www.att.com/stores/north-carolina/wilmington",
+        "done": 0
+    },
+    {
+        "name": "Winston Salem",
+        "href": "https://www.att.com/stores/north-carolina/winston-salem",
+        "done": 0
+    },
+    {
+        "name": "Bismarck",
+        "href": "https://www.att.com/stores/north-dakota/bismarck",
+        "done": 0
+    },
+    {
+        "name": "Fargo",
+        "href": "https://www.att.com/stores/north-dakota/fargo",
+        "done": 0
+    },
+    {
+        "name": "Minot",
+        "href": "https://www.att.com/stores/north-dakota/minot",
+        "done": 0
+    },
+    {
+        "name": "Akron",
+        "href": "https://www.att.com/stores/ohio/akron",
+        "done": 0
+    },
+    {
+        "name": "Canton",
+        "href": "https://www.att.com/stores/ohio/canton",
+        "done": 0
+    },
+    {
+        "name": "Cincinnati",
+        "href": "https://www.att.com/stores/ohio/cincinnati",
+        "done": 0
+    },
+    {
+        "name": "Columbus",
+        "href": "https://www.att.com/stores/ohio/columbus",
+        "done": 0
+    },
+    {
+        "name": "Cuyahoga Falls",
+        "href": "https://www.att.com/stores/ohio/cuyahoga-falls",
+        "done": 0
+    },
+    {
+        "name": "Dayton",
+        "href": "https://www.att.com/stores/ohio/dayton",
+        "done": 0
+    },
+    {
+        "name": "Dublin",
+        "href": "https://www.att.com/stores/ohio/dublin",
+        "done": 0
+    },
+    {
+        "name": "Elyria",
+        "href": "https://www.att.com/stores/ohio/elyria",
+        "done": 0
+    },
+    {
+        "name": "Lancaster",
+        "href": "https://www.att.com/stores/ohio/lancaster",
+        "done": 0
+    },
+    {
+        "name": "Mentor",
+        "href": "https://www.att.com/stores/ohio/mentor",
+        "done": 0
+    },
+    {
+        "name": "Niles",
+        "href": "https://www.att.com/stores/ohio/niles",
+        "done": 0
+    },
+    {
+        "name": "North Canton",
+        "href": "https://www.att.com/stores/ohio/north-canton",
+        "done": 0
+    },
+    {
+        "name": "Perrysburg",
+        "href": "https://www.att.com/stores/ohio/perrysburg",
+        "done": 0
+    },
+    {
+        "name": "Steubenville",
+        "href": "https://www.att.com/stores/ohio/steubenville",
+        "done": 0
+    },
+    {
+        "name": "Strongsville",
+        "href": "https://www.att.com/stores/ohio/strongsville",
+        "done": 0
+    },
+    {
+        "name": "Toledo",
+        "href": "https://www.att.com/stores/ohio/toledo",
+        "done": 0
+    },
+    {
+        "name": "Youngstown",
+        "href": "https://www.att.com/stores/ohio/youngstown",
+        "done": 0
+    },
+    {
+        "name": "Zanesville",
+        "href": "https://www.att.com/stores/ohio/zanesville",
+        "done": 0
+    },
+    {
+        "name": "Ardmore",
+        "href": "https://www.att.com/stores/oklahoma/ardmore",
+        "done": 0
+    },
+    {
+        "name": "Edmond",
+        "href": "https://www.att.com/stores/oklahoma/edmond",
+        "done": 0
+    },
+    {
+        "name": "Lawton",
+        "href": "https://www.att.com/stores/oklahoma/lawton",
+        "done": 0
+    },
+    {
+        "name": "Moore",
+        "href": "https://www.att.com/stores/oklahoma/moore",
+        "done": 0
+    },
+    {
+        "name": "Muskogee",
+        "href": "https://www.att.com/stores/oklahoma/muskogee",
+        "done": 0
+    },
+    {
+        "name": "Norman",
+        "href": "https://www.att.com/stores/oklahoma/norman",
+        "done": 0
+    },
+    {
+        "name": "Oklahoma City",
+        "href": "https://www.att.com/stores/oklahoma/oklahoma-city",
+        "done": 0
+    },
+    {
+        "name": "Shawnee",
+        "href": "https://www.att.com/stores/oklahoma/shawnee",
+        "done": 0
+    },
+    {
+        "name": "Stillwater",
+        "href": "https://www.att.com/stores/oklahoma/stillwater",
+        "done": 0
+    },
+    {
+        "name": "Tulsa",
+        "href": "https://www.att.com/stores/oklahoma/tulsa",
+        "done": 0
+    },
+    {
+        "name": "Albany",
+        "href": "https://www.att.com/stores/oregon/albany",
+        "done": 0
+    },
+    {
+        "name": "Beaverton",
+        "href": "https://www.att.com/stores/oregon/beaverton",
+        "done": 0
+    },
+    {
+        "name": "Corvallis",
+        "href": "https://www.att.com/stores/oregon/corvallis",
+        "done": 0
+    },
+    {
+        "name": "Eugene",
+        "href": "https://www.att.com/stores/oregon/eugene",
+        "done": 0
+    },
+    {
+        "name": "Gresham",
+        "href": "https://www.att.com/stores/oregon/gresham",
+        "done": 0
+    },
+    {
+        "name": "Happy Valley",
+        "href": "https://www.att.com/stores/oregon/happy-valley",
+        "done": 0
+    },
+    {
+        "name": "Hillsboro",
+        "href": "https://www.att.com/stores/oregon/hillsboro",
+        "done": 0
+    },
+    {
+        "name": "Medford",
+        "href": "https://www.att.com/stores/oregon/medford",
+        "done": 0
+    },
+    {
+        "name": "Oregon City",
+        "href": "https://www.att.com/stores/oregon/oregon-city",
+        "done": 0
+    },
+    {
+        "name": "Portland",
+        "href": "https://www.att.com/stores/oregon/portland",
+        "done": 0
+    },
+    {
+        "name": "Salem",
+        "href": "https://www.att.com/stores/oregon/salem",
+        "done": 0
+    },
+    {
+        "name": "Tigard",
+        "href": "https://www.att.com/stores/oregon/tigard",
+        "done": 0
+    },
+    {
+        "name": "Allentown",
+        "href": "https://www.att.com/stores/pennsylvania/allentown",
+        "done": 0
+    },
+    {
+        "name": "Altoona",
+        "href": "https://www.att.com/stores/pennsylvania/altoona",
+        "done": 0
+    },
+    {
+        "name": "Camp Hill",
+        "href": "https://www.att.com/stores/pennsylvania/camp-hill",
+        "done": 0
+    },
+    {
+        "name": "Easton",
+        "href": "https://www.att.com/stores/pennsylvania/easton",
+        "done": 0
+    },
+    {
+        "name": "Erie",
+        "href": "https://www.att.com/stores/pennsylvania/erie",
+        "done": 0
+    },
+    {
+        "name": "Exton",
+        "href": "https://www.att.com/stores/pennsylvania/exton",
+        "done": 0
+    },
+    {
+        "name": "Greensburg",
+        "href": "https://www.att.com/stores/pennsylvania/greensburg",
+        "done": 0
+    },
+    {
+        "name": "Hanover",
+        "href": "https://www.att.com/stores/pennsylvania/hanover",
+        "done": 0
+    },
+    {
+        "name": "Harrisburg",
+        "href": "https://www.att.com/stores/pennsylvania/harrisburg",
+        "done": 0
+    },
+    {
+        "name": "Johnstown",
+        "href": "https://www.att.com/stores/pennsylvania/johnstown",
+        "done": 0
+    },
+    {
+        "name": "King Of Prussia",
+        "href": "https://www.att.com/stores/pennsylvania/king-of-prussia",
+        "done": 0
+    },
+    {
+        "name": "Lancaster",
+        "href": "https://www.att.com/stores/pennsylvania/lancaster",
+        "done": 0
+    },
+    {
+        "name": "Lebanon",
+        "href": "https://www.att.com/stores/pennsylvania/lebanon",
+        "done": 0
+    },
+    {
+        "name": "Levittown",
+        "href": "https://www.att.com/stores/pennsylvania/levittown",
+        "done": 0
+    },
+    {
+        "name": "Monroeville",
+        "href": "https://www.att.com/stores/pennsylvania/monroeville",
+        "done": 0
+    },
+    {
+        "name": "New Castle",
+        "href": "https://www.att.com/stores/pennsylvania/new-castle",
+        "done": 0
+    },
+    {
+        "name": "Philadelphia",
+        "href": "https://www.att.com/stores/pennsylvania/philadelphia",
+        "done": 0
+    },
+    {
+        "name": "Phoenixville",
+        "href": "https://www.att.com/stores/pennsylvania/phoenixville",
+        "done": 0
+    },
+    {
+        "name": "Pittsburgh",
+        "href": "https://www.att.com/stores/pennsylvania/pittsburgh",
+        "done": 0
+    },
+    {
+        "name": "Royersford",
+        "href": "https://www.att.com/stores/pennsylvania/royersford",
+        "done": 0
+    },
+    {
+        "name": "Scranton",
+        "href": "https://www.att.com/stores/pennsylvania/scranton",
+        "done": 0
+    },
+    {
+        "name": "Selinsgrove",
+        "href": "https://www.att.com/stores/pennsylvania/selinsgrove",
+        "done": 0
+    },
+    {
+        "name": "Springfield",
+        "href": "https://www.att.com/stores/pennsylvania/springfield",
+        "done": 0
+    },
+    {
+        "name": "State College",
+        "href": "https://www.att.com/stores/pennsylvania/state-college",
+        "done": 0
+    },
+    {
+        "name": "Warrington",
+        "href": "https://www.att.com/stores/pennsylvania/warrington",
+        "done": 0
+    },
+    {
+        "name": "Wayne",
+        "href": "https://www.att.com/stores/pennsylvania/wayne",
+        "done": 0
+    },
+    {
+        "name": "West Chester",
+        "href": "https://www.att.com/stores/pennsylvania/west-chester",
+        "done": 0
+    },
+    {
+        "name": "Whitehall",
+        "href": "https://www.att.com/stores/pennsylvania/whitehall",
+        "done": 0
+    },
+    {
+        "name": "Wilkes Barre",
+        "href": "https://www.att.com/stores/pennsylvania/wilkes-barre",
+        "done": 0
+    },
+    {
+        "name": "Willow Grove",
+        "href": "https://www.att.com/stores/pennsylvania/willow-grove",
+        "done": 0
+    },
+    {
+        "name": "Wyncote",
+        "href": "https://www.att.com/stores/pennsylvania/wyncote",
+        "done": 0
+    },
+    {
+        "name": "York",
+        "href": "https://www.att.com/stores/pennsylvania/york",
+        "done": 0
+    },
+    {
+        "name": "Aguadilla",
+        "href": "https://www.att.com/stores/pr/aguadilla",
+        "done": 0
+    },
+    {
+        "name": "Barceloneta",
+        "href": "https://www.att.com/stores/pr/barceloneta",
+        "done": 0
+    },
+    {
+        "name": "Bayamon",
+        "href": "https://www.att.com/stores/pr/bayamon",
+        "done": 0
+    },
+    {
+        "name": "Caguas",
+        "href": "https://www.att.com/stores/pr/caguas",
+        "done": 0
+    },
+    {
+        "name": "Canovanas",
+        "href": "https://www.att.com/stores/pr/canovanas",
+        "done": 0
+    },
+    {
+        "name": "Carolina",
+        "href": "https://www.att.com/stores/pr/carolina",
+        "done": 0
+    },
+    {
+        "name": "Cayey",
+        "href": "https://www.att.com/stores/pr/cayey",
+        "done": 0
+    },
+    {
+        "name": "Fajardo",
+        "href": "https://www.att.com/stores/pr/fajardo",
+        "done": 0
+    },
+    {
+        "name": "Guayama",
+        "href": "https://www.att.com/stores/pr/guayama",
+        "done": 0
+    },
+    {
+        "name": "Guaynabo",
+        "href": "https://www.att.com/stores/pr/guaynabo",
+        "done": 0
+    },
+    {
+        "name": "Hatillo",
+        "href": "https://www.att.com/stores/pr/hatillo",
+        "done": 0
+    },
+    {
+        "name": "Humacao",
+        "href": "https://www.att.com/stores/pr/humacao",
+        "done": 0
+    },
+    {
+        "name": "Isabela",
+        "href": "https://www.att.com/stores/pr/isabela",
+        "done": 0
+    },
+    {
+        "name": "Manati",
+        "href": "https://www.att.com/stores/pr/manati",
+        "done": 0
+    },
+    {
+        "name": "Mayaguez",
+        "href": "https://www.att.com/stores/pr/mayaguez",
+        "done": 0
+    },
+    {
+        "name": "Ponce",
+        "href": "https://www.att.com/stores/pr/ponce",
+        "done": 0
+    },
+    {
+        "name": "San Juan",
+        "href": "https://www.att.com/stores/pr/san-juan",
+        "done": 0
+    },
+    {
+        "name": "San Sebastian",
+        "href": "https://www.att.com/stores/pr/san-sebastian",
+        "done": 0
+    },
+    {
+        "name": "Santa Isabel",
+        "href": "https://www.att.com/stores/pr/santa-isabel",
+        "done": 0
+    },
+    {
+        "name": "Vega Alta",
+        "href": "https://www.att.com/stores/pr/vega-alta",
+        "done": 0
+    },
+    {
+        "name": "Cranston",
+        "href": "https://www.att.com/stores/rhode-island/cranston",
+        "done": 0
+    },
+    {
+        "name": "Warwick",
+        "href": "https://www.att.com/stores/rhode-island/warwick",
+        "done": 0
+    },
+    {
+        "name": "Aiken",
+        "href": "https://www.att.com/stores/south-carolina/aiken",
+        "done": 0
+    },
+    {
+        "name": "Bluffton",
+        "href": "https://www.att.com/stores/south-carolina/bluffton",
+        "done": 0
+    },
+    {
+        "name": "Charleston",
+        "href": "https://www.att.com/stores/south-carolina/charleston",
+        "done": 0
+    },
+    {
+        "name": "Columbia",
+        "href": "https://www.att.com/stores/south-carolina/columbia",
+        "done": 0
+    },
+    {
+        "name": "Conway",
+        "href": "https://www.att.com/stores/south-carolina/conway",
+        "done": 0
+    },
+    {
+        "name": "Florence",
+        "href": "https://www.att.com/stores/south-carolina/florence",
+        "done": 0
+    },
+    {
+        "name": "Greenville",
+        "href": "https://www.att.com/stores/south-carolina/greenville",
+        "done": 0
+    },
+    {
+        "name": "Indian Land",
+        "href": "https://www.att.com/stores/south-carolina/indian-land",
+        "done": 0
+    },
+    {
+        "name": "Lexington",
+        "href": "https://www.att.com/stores/south-carolina/lexington",
+        "done": 0
+    },
+    {
+        "name": "Mount Pleasant",
+        "href": "https://www.att.com/stores/south-carolina/mount-pleasant",
+        "done": 0
+    },
+    {
+        "name": "Murrells Inlet",
+        "href": "https://www.att.com/stores/south-carolina/murrells-inlet",
+        "done": 0
+    },
+    {
+        "name": "Myrtle Beach",
+        "href": "https://www.att.com/stores/south-carolina/myrtle-beach",
+        "done": 0
+    },
+    {
+        "name": "Rock Hill",
+        "href": "https://www.att.com/stores/south-carolina/rock-hill",
+        "done": 0
+    },
+    {
+        "name": "Spartanburg",
+        "href": "https://www.att.com/stores/south-carolina/spartanburg",
+        "done": 0
+    },
+    {
+        "name": "Summerville",
+        "href": "https://www.att.com/stores/south-carolina/summerville",
+        "done": 0
+    },
+    {
+        "name": "Rapid City",
+        "href": "https://www.att.com/stores/south-dakota/rapid-city",
+        "done": 0
+    },
+    {
+        "name": "Sioux Falls",
+        "href": "https://www.att.com/stores/south-dakota/sioux-falls",
+        "done": 0
+    },
+    {
+        "name": "Chattanooga",
+        "href": "https://www.att.com/stores/tennessee/chattanooga",
+        "done": 0
+    },
+    {
+        "name": "Clarksville",
+        "href": "https://www.att.com/stores/tennessee/clarksville",
+        "done": 0
+    },
+    {
+        "name": "Cleveland",
+        "href": "https://www.att.com/stores/tennessee/cleveland",
+        "done": 0
+    },
+    {
+        "name": "Collierville",
+        "href": "https://www.att.com/stores/tennessee/collierville",
+        "done": 0
+    },
+    {
+        "name": "Franklin",
+        "href": "https://www.att.com/stores/tennessee/franklin",
+        "done": 0
+    },
+    {
+        "name": "Jackson",
+        "href": "https://www.att.com/stores/tennessee/jackson",
+        "done": 0
+    },
+    {
+        "name": "Johnson City",
+        "href": "https://www.att.com/stores/tennessee/johnson-city",
+        "done": 0
+    },
+    {
+        "name": "Knoxville",
+        "href": "https://www.att.com/stores/tennessee/knoxville",
+        "done": 0
+    },
+    {
+        "name": "Memphis",
+        "href": "https://www.att.com/stores/tennessee/memphis",
+        "done": 0
+    },
+    {
+        "name": "Morristown",
+        "href": "https://www.att.com/stores/tennessee/morristown",
+        "done": 0
+    },
+    {
+        "name": "Murfreesboro",
+        "href": "https://www.att.com/stores/tennessee/murfreesboro",
+        "done": 0
+    },
+    {
+        "name": "Nashville",
+        "href": "https://www.att.com/stores/tennessee/nashville",
+        "done": 0
+    },
+    {
+        "name": "Spring Hill",
+        "href": "https://www.att.com/stores/tennessee/spring-hill",
+        "done": 0
+    },
+    {
+        "name": "Abilene",
+        "href": "https://www.att.com/stores/texas/abilene",
+        "done": 0
+    },
+    {
+        "name": "Allen",
+        "href": "https://www.att.com/stores/texas/allen",
+        "done": 0
+    },
+    {
+        "name": "Amarillo",
+        "href": "https://www.att.com/stores/texas/amarillo",
+        "done": 0
+    },
+    {
+        "name": "Arlington",
+        "href": "https://www.att.com/stores/texas/arlington",
+        "done": 0
+    },
+    {
+        "name": "Austin",
+        "href": "https://www.att.com/stores/texas/austin",
+        "done": 0
+    },
+    {
+        "name": "Baytown",
+        "href": "https://www.att.com/stores/texas/baytown",
+        "done": 0
+    },
+    {
+        "name": "Beaumont",
+        "href": "https://www.att.com/stores/texas/beaumont",
+        "done": 0
+    },
+    {
+        "name": "Brownsville",
+        "href": "https://www.att.com/stores/texas/brownsville",
+        "done": 0
+    },
+    {
+        "name": "Bryan",
+        "href": "https://www.att.com/stores/texas/bryan",
+        "done": 0
+    },
+    {
+        "name": "Burleson",
+        "href": "https://www.att.com/stores/texas/burleson",
+        "done": 0
+    },
+    {
+        "name": "Carrollton",
+        "href": "https://www.att.com/stores/texas/carrollton",
+        "done": 0
+    },
+    {
+        "name": "College Station",
+        "href": "https://www.att.com/stores/texas/college-station",
+        "done": 0
+    },
+    {
+        "name": "Conroe",
+        "href": "https://www.att.com/stores/texas/conroe",
+        "done": 0
+    },
+    {
+        "name": "Corpus Christi",
+        "href": "https://www.att.com/stores/texas/corpus-christi",
+        "done": 0
+    },
+    {
+        "name": "Cypress",
+        "href": "https://www.att.com/stores/texas/cypress",
+        "done": 0
+    },
+    {
+        "name": "Dallas",
+        "href": "https://www.att.com/stores/texas/dallas",
+        "done": 0
+    },
+    {
+        "name": "Deer Park",
+        "href": "https://www.att.com/stores/texas/deer-park",
+        "done": 0
+    },
+    {
+        "name": "Denton",
+        "href": "https://www.att.com/stores/texas/denton",
+        "done": 0
+    },
+    {
+        "name": "El Paso",
+        "href": "https://www.att.com/stores/texas/el-paso",
+        "done": 0
+    },
+    {
+        "name": "Flower Mound",
+        "href": "https://www.att.com/stores/texas/flower-mound",
+        "done": 0
+    },
+    {
+        "name": "Fort Worth",
+        "href": "https://www.att.com/stores/texas/fort-worth",
+        "done": 0
+    },
+    {
+        "name": "Friendswood",
+        "href": "https://www.att.com/stores/texas/friendswood",
+        "done": 0
+    },
+    {
+        "name": "Frisco",
+        "href": "https://www.att.com/stores/texas/frisco",
+        "done": 0
+    },
+    {
+        "name": "Garland",
+        "href": "https://www.att.com/stores/texas/garland",
+        "done": 0
+    },
+    {
+        "name": "Georgetown",
+        "href": "https://www.att.com/stores/texas/georgetown",
+        "done": 0
+    },
+    {
+        "name": "Granbury",
+        "href": "https://www.att.com/stores/texas/granbury",
+        "done": 0
+    },
+    {
+        "name": "Grand Prairie",
+        "href": "https://www.att.com/stores/texas/grand-prairie",
+        "done": 0
+    },
+    {
+        "name": "Grapevine",
+        "href": "https://www.att.com/stores/texas/grapevine",
+        "done": 0
+    },
+    {
+        "name": "Harlingen",
+        "href": "https://www.att.com/stores/texas/harlingen",
+        "done": 0
+    },
+    {
+        "name": "Houston",
+        "href": "https://www.att.com/stores/texas/houston",
+        "done": 0
+    },
+    {
+        "name": "Humble",
+        "href": "https://www.att.com/stores/texas/humble",
+        "done": 0
+    },
+    {
+        "name": "Hurst",
+        "href": "https://www.att.com/stores/texas/hurst",
+        "done": 0
+    },
+    {
+        "name": "Irving",
+        "href": "https://www.att.com/stores/texas/irving",
+        "done": 0
+    },
+    {
+        "name": "Katy",
+        "href": "https://www.att.com/stores/texas/katy",
+        "done": 0
+    },
+    {
+        "name": "Killeen",
+        "href": "https://www.att.com/stores/texas/killeen",
+        "done": 0
+    },
+    {
+        "name": "Kingwood",
+        "href": "https://www.att.com/stores/texas/kingwood",
+        "done": 0
+    },
+    {
+        "name": "Laredo",
+        "href": "https://www.att.com/stores/texas/laredo",
+        "done": 0
+    },
+    {
+        "name": "Lewisville",
+        "href": "https://www.att.com/stores/texas/lewisville",
+        "done": 0
+    },
+    {
+        "name": "Longview",
+        "href": "https://www.att.com/stores/texas/longview",
+        "done": 0
+    },
+    {
+        "name": "Lubbock",
+        "href": "https://www.att.com/stores/texas/lubbock",
+        "done": 0
+    },
+    {
+        "name": "Lufkin",
+        "href": "https://www.att.com/stores/texas/lufkin",
+        "done": 0
+    },
+    {
+        "name": "Magnolia",
+        "href": "https://www.att.com/stores/texas/magnolia",
+        "done": 0
+    },
+    {
+        "name": "Mansfield",
+        "href": "https://www.att.com/stores/texas/mansfield",
+        "done": 0
+    },
+    {
+        "name": "McAllen",
+        "href": "https://www.att.com/stores/texas/mcallen",
+        "done": 0
+    },
+    {
+        "name": "McKinney",
+        "href": "https://www.att.com/stores/texas/mckinney",
+        "done": 0
+    },
+    {
+        "name": "Mesquite",
+        "href": "https://www.att.com/stores/texas/mesquite",
+        "done": 0
+    },
+    {
+        "name": "Midland",
+        "href": "https://www.att.com/stores/texas/midland",
+        "done": 0
+    },
+    {
+        "name": "Midlothian",
+        "href": "https://www.att.com/stores/texas/midlothian",
+        "done": 0
+    },
+    {
+        "name": "Missouri City",
+        "href": "https://www.att.com/stores/texas/missouri-city",
+        "done": 0
+    },
+    {
+        "name": "New Braunfels",
+        "href": "https://www.att.com/stores/texas/new-braunfels",
+        "done": 0
+    },
+    {
+        "name": "North Richland Hills",
+        "href": "https://www.att.com/stores/texas/north-richland-hills",
+        "done": 0
+    },
+    {
+        "name": "Odessa",
+        "href": "https://www.att.com/stores/texas/odessa",
+        "done": 0
+    },
+    {
+        "name": "Pasadena",
+        "href": "https://www.att.com/stores/texas/pasadena",
+        "done": 0
+    },
+    {
+        "name": "Pearland",
+        "href": "https://www.att.com/stores/texas/pearland",
+        "done": 0
+    },
+    {
+        "name": "Plano",
+        "href": "https://www.att.com/stores/texas/plano",
+        "done": 0
+    },
+    {
+        "name": "Richardson",
+        "href": "https://www.att.com/stores/texas/richardson",
+        "done": 0
+    },
+    {
+        "name": "Richmond",
+        "href": "https://www.att.com/stores/texas/richmond",
+        "done": 0
+    },
+    {
+        "name": "Rockwall",
+        "href": "https://www.att.com/stores/texas/rockwall",
+        "done": 0
+    },
+    {
+        "name": "Round Rock",
+        "href": "https://www.att.com/stores/texas/round-rock",
+        "done": 0
+    },
+    {
+        "name": "San Angelo",
+        "href": "https://www.att.com/stores/texas/san-angelo",
+        "done": 0
+    },
+    {
+        "name": "San Antonio",
+        "href": "https://www.att.com/stores/texas/san-antonio",
+        "done": 0
+    },
+    {
+        "name": "San Marcos",
+        "href": "https://www.att.com/stores/texas/san-marcos",
+        "done": 0
+    },
+    {
+        "name": "Spring",
+        "href": "https://www.att.com/stores/texas/spring",
+        "done": 0
+    },
+    {
+        "name": "Sugar Land",
+        "href": "https://www.att.com/stores/texas/sugar-land",
+        "done": 0
+    },
+    {
+        "name": "Temple",
+        "href": "https://www.att.com/stores/texas/temple",
+        "done": 0
+    },
+    {
+        "name": "Texarkana",
+        "href": "https://www.att.com/stores/texas/texarkana",
+        "done": 0
+    },
+    {
+        "name": "The Woodlands",
+        "href": "https://www.att.com/stores/texas/the-woodlands",
+        "done": 0
+    },
+    {
+        "name": "Tyler",
+        "href": "https://www.att.com/stores/texas/tyler",
+        "done": 0
+    },
+    {
+        "name": "Victoria",
+        "href": "https://www.att.com/stores/texas/victoria",
+        "done": 0
+    },
+    {
+        "name": "Waco",
+        "href": "https://www.att.com/stores/texas/waco",
+        "done": 0
+    },
+    {
+        "name": "Wylie",
+        "href": "https://www.att.com/stores/texas/wylie",
+        "done": 0
+    },
+    {
+        "name": "Layton",
+        "href": "https://www.att.com/stores/utah/layton",
+        "done": 0
+    },
+    {
+        "name": "Lehi",
+        "href": "https://www.att.com/stores/utah/lehi",
+        "done": 0
+    },
+    {
+        "name": "Logan",
+        "href": "https://www.att.com/stores/utah/logan",
+        "done": 0
+    },
+    {
+        "name": "Murray",
+        "href": "https://www.att.com/stores/utah/murray",
+        "done": 0
+    },
+    {
+        "name": "Ogden",
+        "href": "https://www.att.com/stores/utah/ogden",
+        "done": 0
+    },
+    {
+        "name": "Orem",
+        "href": "https://www.att.com/stores/utah/orem",
+        "done": 0
+    },
+    {
+        "name": "Park City",
+        "href": "https://www.att.com/stores/utah/park-city",
+        "done": 0
+    },
+    {
+        "name": "Salt Lake City",
+        "href": "https://www.att.com/stores/utah/salt-lake-city",
+        "done": 0
+    },
+    {
+        "name": "Sandy",
+        "href": "https://www.att.com/stores/utah/sandy",
+        "done": 0
+    },
+    {
+        "name": "South Jordan",
+        "href": "https://www.att.com/stores/utah/south-jordan",
+        "done": 0
+    },
+    {
+        "name": "West Jordan",
+        "href": "https://www.att.com/stores/utah/west-jordan",
+        "done": 0
+    },
+    {
+        "name": "West Valley City",
+        "href": "https://www.att.com/stores/utah/west-valley-city",
+        "done": 0
+    },
+    {
+        "name": "South Burlington",
+        "href": "https://www.att.com/stores/vermont/south-burlington",
+        "done": 0
+    },
+    {
+        "name": "Charlotte Ama",
+        "href": "https://www.att.com/stores/vi/charlotte-ama",
+        "done": 0
+    },
+    {
+        "name": "Alexandria",
+        "href": "https://www.att.com/stores/virginia/alexandria",
+        "done": 0
+    },
+    {
+        "name": "Arlington",
+        "href": "https://www.att.com/stores/virginia/arlington",
+        "done": 0
+    },
+    {
+        "name": "Ashburn",
+        "href": "https://www.att.com/stores/virginia/ashburn",
+        "done": 0
+    },
+    {
+        "name": "Burke",
+        "href": "https://www.att.com/stores/virginia/burke",
+        "done": 0
+    },
+    {
+        "name": "Charlottesville",
+        "href": "https://www.att.com/stores/virginia/charlottesville",
+        "done": 0
+    },
+    {
+        "name": "Chesapeake",
+        "href": "https://www.att.com/stores/virginia/chesapeake",
+        "done": 0
+    },
+    {
+        "name": "Dulles",
+        "href": "https://www.att.com/stores/virginia/dulles",
+        "done": 0
+    },
+    {
+        "name": "Fairfax",
+        "href": "https://www.att.com/stores/virginia/fairfax",
+        "done": 0
+    },
+    {
+        "name": "Falls Church",
+        "href": "https://www.att.com/stores/virginia/falls-church",
+        "done": 0
+    },
+    {
+        "name": "Fredericksburg",
+        "href": "https://www.att.com/stores/virginia/fredericksburg",
+        "done": 0
+    },
+    {
+        "name": "Gainesville",
+        "href": "https://www.att.com/stores/virginia/gainesville",
+        "done": 0
+    },
+    {
+        "name": "Glen Allen",
+        "href": "https://www.att.com/stores/virginia/glen-allen",
+        "done": 0
+    },
+    {
+        "name": "Lynchburg",
+        "href": "https://www.att.com/stores/virginia/lynchburg",
+        "done": 0
+    },
+    {
+        "name": "Manassas",
+        "href": "https://www.att.com/stores/virginia/manassas",
+        "done": 0
+    },
+    {
+        "name": "Midlothian",
+        "href": "https://www.att.com/stores/virginia/midlothian",
+        "done": 0
+    },
+    {
+        "name": "Norfolk",
+        "href": "https://www.att.com/stores/virginia/norfolk",
+        "done": 0
+    },
+    {
+        "name": "Richmond",
+        "href": "https://www.att.com/stores/virginia/richmond",
+        "done": 0
+    },
+    {
+        "name": "Roanoke",
+        "href": "https://www.att.com/stores/virginia/roanoke",
+        "done": 0
+    },
+    {
+        "name": "Springfield",
+        "href": "https://www.att.com/stores/virginia/springfield",
+        "done": 0
+    },
+    {
+        "name": "Sterling",
+        "href": "https://www.att.com/stores/virginia/sterling",
+        "done": 0
+    },
+    {
+        "name": "Virginia Beach",
+        "href": "https://www.att.com/stores/virginia/virginia-beach",
+        "done": 0
+    },
+    {
+        "name": "Winchester",
+        "href": "https://www.att.com/stores/virginia/winchester",
+        "done": 0
+    },
+    {
+        "name": "Woodbridge",
+        "href": "https://www.att.com/stores/virginia/woodbridge",
+        "done": 0
+    },
+    {
+        "name": "Auburn",
+        "href": "https://www.att.com/stores/washington/auburn",
+        "done": 0
+    },
+    {
+        "name": "Bellevue",
+        "href": "https://www.att.com/stores/washington/bellevue",
+        "done": 0
+    },
+    {
+        "name": "Bellingham",
+        "href": "https://www.att.com/stores/washington/bellingham",
+        "done": 0
+    },
+    {
+        "name": "Bothell",
+        "href": "https://www.att.com/stores/washington/bothell",
+        "done": 0
+    },
+    {
+        "name": "Everett",
+        "href": "https://www.att.com/stores/washington/everett",
+        "done": 0
+    },
+    {
+        "name": "Federal Way",
+        "href": "https://www.att.com/stores/washington/federal-way",
+        "done": 0
+    },
+    {
+        "name": "Issaquah",
+        "href": "https://www.att.com/stores/washington/issaquah",
+        "done": 0
+    },
+    {
+        "name": "Kennewick",
+        "href": "https://www.att.com/stores/washington/kennewick",
+        "done": 0
+    },
+    {
+        "name": "Kirkland",
+        "href": "https://www.att.com/stores/washington/kirkland",
+        "done": 0
+    },
+    {
+        "name": "Lynnwood",
+        "href": "https://www.att.com/stores/washington/lynnwood",
+        "done": 0
+    },
+    {
+        "name": "Marysville",
+        "href": "https://www.att.com/stores/washington/marysville",
+        "done": 0
+    },
+    {
+        "name": "Moses Lake",
+        "href": "https://www.att.com/stores/washington/moses-lake",
+        "done": 0
+    },
+    {
+        "name": "Olympia",
+        "href": "https://www.att.com/stores/washington/olympia",
+        "done": 0
+    },
+    {
+        "name": "Puyallup",
+        "href": "https://www.att.com/stores/washington/puyallup",
+        "done": 0
+    },
+    {
+        "name": "Renton",
+        "href": "https://www.att.com/stores/washington/renton",
+        "done": 0
+    },
+    {
+        "name": "Richland",
+        "href": "https://www.att.com/stores/washington/richland",
+        "done": 0
+    },
+    {
+        "name": "Seattle",
+        "href": "https://www.att.com/stores/washington/seattle",
+        "done": 0
+    },
+    {
+        "name": "Silverdale",
+        "href": "https://www.att.com/stores/washington/silverdale",
+        "done": 0
+    },
+    {
+        "name": "Spokane",
+        "href": "https://www.att.com/stores/washington/spokane",
+        "done": 0
+    },
+    {
+        "name": "Tacoma",
+        "href": "https://www.att.com/stores/washington/tacoma",
+        "done": 0
+    },
+    {
+        "name": "Tukwila",
+        "href": "https://www.att.com/stores/washington/tukwila",
+        "done": 0
+    },
+    {
+        "name": "Vancouver",
+        "href": "https://www.att.com/stores/washington/vancouver",
+        "done": 0
+    },
+    {
+        "name": "Yakima",
+        "href": "https://www.att.com/stores/washington/yakima",
+        "done": 0
+    },
+    {
+        "name": "Auburn",
+        "href": "https://www.att.com/stores/alabama/auburn",
+        "done": 0
+    },
+    {
+        "name": "Birmingham",
+        "href": "https://www.att.com/stores/alabama/birmingham",
+        "done": 0
+    },
+    {
+        "name": "Cullman",
+        "href": "https://www.att.com/stores/alabama/cullman",
+        "done": 0
+    },
+    {
+        "name": "Daphne",
+        "href": "https://www.att.com/stores/alabama/daphne",
+        "done": 0
+    },
+    {
+        "name": "Dothan",
+        "href": "https://www.att.com/stores/alabama/dothan",
+        "done": 0
+    },
+    {
+        "name": "Huntsville",
+        "href": "https://www.att.com/stores/alabama/huntsville",
+        "done": 0
+    },
+    {
+        "name": "Jasper",
+        "href": "https://www.att.com/stores/alabama/jasper",
+        "done": 0
+    },
+    {
+        "name": "Madison",
+        "href": "https://www.att.com/stores/alabama/madison",
+        "done": 0
+    },
+    {
+        "name": "Mobile",
+        "href": "https://www.att.com/stores/alabama/mobile",
+        "done": 0
+    },
+    {
+        "name": "Montgomery",
+        "href": "https://www.att.com/stores/alabama/montgomery",
+        "done": 0
+    },
+    {
+        "name": "Northport",
+        "href": "https://www.att.com/stores/alabama/northport",
+        "done": 0
+    },
+    {
+        "name": "Saraland",
+        "href": "https://www.att.com/stores/alabama/saraland",
+        "done": 0
+    },
+    {
+        "name": "Tuscaloosa",
+        "href": "https://www.att.com/stores/alabama/tuscaloosa",
+        "done": 0
+    },
+    {
+        "name": "Anchorage",
+        "href": "https://www.att.com/stores/alaska/anchorage",
+        "done": 0
+    },
+    {
+        "name": "Fairbanks",
+        "href": "https://www.att.com/stores/alaska/fairbanks",
+        "done": 0
+    },
+    {
+        "name": "Chandler",
+        "href": "https://www.att.com/stores/arizona/chandler",
+        "done": 0
+    },
+    {
+        "name": "Gilbert",
+        "href": "https://www.att.com/stores/arizona/gilbert",
+        "done": 0
+    },
+    {
+        "name": "Glendale",
+        "href": "https://www.att.com/stores/arizona/glendale",
+        "done": 0
+    },
+    {
+        "name": "Goodyear",
+        "href": "https://www.att.com/stores/arizona/goodyear",
+        "done": 0
+    },
+    {
+        "name": "Mesa",
+        "href": "https://www.att.com/stores/arizona/mesa",
+        "done": 0
+    },
+    {
+        "name": "Phoenix",
+        "href": "https://www.att.com/stores/arizona/phoenix",
+        "done": 0
+    },
+    {
+        "name": "Scottsdale",
+        "href": "https://www.att.com/stores/arizona/scottsdale",
+        "done": 0
+    },
+    {
+        "name": "Surprise",
+        "href": "https://www.att.com/stores/arizona/surprise",
+        "done": 0
+    },
+    {
+        "name": "Tempe",
+        "href": "https://www.att.com/stores/arizona/tempe",
+        "done": 0
+    },
+    {
+        "name": "Tucson",
+        "href": "https://www.att.com/stores/arizona/tucson",
+        "done": 0
+    },
+    {
+        "name": "Yuma",
+        "href": "https://www.att.com/stores/arizona/yuma",
+        "done": 0
+    },
+    {
+        "name": "Auburn",
+        "href": "https://www.att.com/stores/alabama/auburn",
+        "done": 0
+    },
+    {
+        "name": "Birmingham",
+        "href": "https://www.att.com/stores/alabama/birmingham",
+        "done": 0
+    },
+    {
+        "name": "Cullman",
+        "href": "https://www.att.com/stores/alabama/cullman",
+        "done": 0
+    },
+    {
+        "name": "Daphne",
+        "href": "https://www.att.com/stores/alabama/daphne",
+        "done": 0
+    },
+    {
+        "name": "Dothan",
+        "href": "https://www.att.com/stores/alabama/dothan",
+        "done": 0
+    },
+    {
+        "name": "Huntsville",
+        "href": "https://www.att.com/stores/alabama/huntsville",
+        "done": 0
+    },
+    {
+        "name": "Jasper",
+        "href": "https://www.att.com/stores/alabama/jasper",
+        "done": 0
+    },
+    {
+        "name": "Madison",
+        "href": "https://www.att.com/stores/alabama/madison",
+        "done": 0
+    },
+    {
+        "name": "Mobile",
+        "href": "https://www.att.com/stores/alabama/mobile",
+        "done": 0
+    },
+    {
+        "name": "Montgomery",
+        "href": "https://www.att.com/stores/alabama/montgomery",
+        "done": 0
+    },
+    {
+        "name": "Northport",
+        "href": "https://www.att.com/stores/alabama/northport",
+        "done": 0
+    },
+    {
+        "name": "Saraland",
+        "href": "https://www.att.com/stores/alabama/saraland",
+        "done": 0
+    },
+    {
+        "name": "Tuscaloosa",
+        "href": "https://www.att.com/stores/alabama/tuscaloosa",
+        "done": 0
+    }
+]

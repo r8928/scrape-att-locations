@@ -1,0 +1,23 @@
+{
+  "name": "scrape-g-maps",
+  "version": "1.0.0",
+  "description": "Scrape Google Maps search results",
+  "main": "index.js",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "sync-request": "^6.1.0",
+    "lodash": "^4.17.19",
+    "puppeteer": "^5.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/talkgit/scrape-g-maps.git"
+  },
+  "keywords": [
+    "google",
+    "maps",
+    "scrape"
+  ],
+  "author": "r8928",
+  "homepage": "https://bitbucket.org/talkgit/scrape-g-maps"
+}
